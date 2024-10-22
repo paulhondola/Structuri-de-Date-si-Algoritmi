@@ -1,135 +1,94 @@
 #include "shellsort.h"
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 #include <time.h>
 
-typedef struct {
-  int key, value;
-} KV_Pair;
+// Comparator function for integers
+int compare_int(const void *p, const void *q) {
+  int a = *(int *)p;
+  int b = *(int *)q;
+  return (a > b) - (a < b); // Return -1, 0, or 1
+}
 
-int gap_step_1(int n) { return 3 * n + 1; }
+// Comparator function for floats
+int compare_float(const void *p, const void *q) {
+  float a = *(float *)p;
+  float b = *(float *)q;
+  return (a > b) - (a < b);
+}
 
-void init_fib(const int size, KV_Pair data[], void *arr[], int gaps[],
-              int *num_gaps, gap_generator gen_gaps) {
-  int max_key = size / 2;
-  int max_value = size / 2;
+void integer_run_test(int size, int max_value, int gaps[], int number_of_gaps) {
 
-  // Fill the array with random integers
-  // Create an array of void pointers pointing to the integer data
+  int arr[size];
   for (int i = 0; i < size; i++) {
-    data[i].key = rand() % max_key;
-    data[i].value = rand() % max_value;
-    arr[i] = &data[i];
+    arr[i] = rand() % max_value;
   }
 
-  gen_gaps(gaps, num_gaps, size);
-}
-
-void init_custom(const int size, KV_Pair data[], void *arr[], int gaps[],
-                 int *num_gaps, custom_gap_generator gen_gaps, gap_step step) {
-
-  int max_key = size / 2;
-  int max_value = size / 2;
-
-  // Fill the array with random integers
-  // Create an array of void pointers pointing to the integer data
+  printf("Original integer array: ");
   for (int i = 0; i < size; i++) {
-    data[i].key = rand() % max_key;
-    data[i].value = rand() % max_value;
-    arr[i] = &data[i];
-  }
-
-  gen_gaps(gaps, num_gaps, size, gap_step_1);
-}
-
-// Function to compare integers (ascending order)
-int compare_KV_by_key(const void *a, const void *b) {
-  // Dereference the void pointers and compare the integer values
-  int key_diff = ((KV_Pair *)a)->key - ((KV_Pair *)b)->key;
-  int value_diff = ((KV_Pair *)a)->value - ((KV_Pair *)b)->value;
-  return key_diff != 0 ? key_diff : value_diff;
-}
-
-int compare_KV_by_value(const void *a, const void *b) {
-  // Dereference the void pointers and compare the integer values
-  int key_diff = ((KV_Pair *)a)->key - ((KV_Pair *)b)->key;
-  int value_diff = ((KV_Pair *)a)->value - ((KV_Pair *)b)->value;
-  return value_diff != 0 ? value_diff : key_diff;
-}
-
-// Function to print a KV_Pair
-void print_KV(void *pair) {
-  KV_Pair *p = (KV_Pair *)pair;
-  printf("(%d, %d)\n", p->key, p->value);
-}
-
-// Function to print an array of integers
-void print_KV_array(void *arr[], int size) {
-  for (int i = 0; i < size; i++) {
-    print_KV(arr[i]);
-  }
-}
-
-void custom_run(KV_Pair data[], const int SIZE) {
-  void *arr[SIZE];
-  int gaps[SIZE];
-  int num_gaps = 0;
-
-  init_fib(SIZE, data, arr, gaps, &num_gaps, generate_gaps_fib);
-
-  // Check the gaps
-  printf("Gaps used: ");
-  for (int i = 0; i < num_gaps; i++) {
-    printf("%d ", gaps[i]);
+    printf("%d ", arr[i]);
   }
   printf("\n");
 
-  // Testing
-  printf("Array before sorting:\n");
-  print_KV_array(arr, SIZE);
+  shellsort(arr, size, sizeof(arr[0]), compare_int, gaps, number_of_gaps);
 
-  // Sort the array using the shellSort function and compareInt comparator
-  shell_sort(arr, SIZE, compare_KV_by_key, gaps, num_gaps);
-
-  printf("Array after sorting:\n");
-  print_KV_array(arr, SIZE);
+  printf("Sorted integer array: ");
+  for (int i = 0; i < size; i++) {
+    printf("%d ", arr[i]);
+  }
+  printf("\n");
 }
 
-void fib_run(KV_Pair data[], const int SIZE) {
-  void *arr[SIZE];
-  int gaps[SIZE];
-  int num_gaps = 0;
+void float_run_test(int size, int max_value, int gaps[], int number_of_gaps) {
 
-  init_custom(SIZE, data, arr, gaps, &num_gaps, generate_gaps_via_step_function,
-              gap_step_1);
+  float arr[size];
+  for (int i = 0; i < size; i++) {
+    arr[i] = (float)rand() / (float)(RAND_MAX / max_value);
+  }
 
-  // Check the gaps
-  printf("Gaps used: ");
-  for (int i = 0; i < num_gaps; i++) {
-    printf("%d ", gaps[i]);
+  printf("Original float array: ");
+  for (int i = 0; i < size; i++) {
+    printf("%.2f ", arr[i]);
   }
   printf("\n");
 
-  // Testing
-  printf("Array before sorting:\n");
-  print_KV_array(arr, SIZE);
+  shellsort(arr, size, sizeof(arr[0]), compare_float, gaps, number_of_gaps);
 
-  // Sort the array using the shellSort function and compareInt comparator
-  shell_sort(arr, SIZE, compare_KV_by_key, gaps, num_gaps);
-
-  printf("Array after sorting:\n");
-  print_KV_array(arr, SIZE);
+  printf("Sorted float array: ");
+  for (int i = 0; i < size; i++) {
+    printf("%.2f ", arr[i]);
+  }
+  printf("\n");
 }
 
-// Main function to test the shellSort function with integers
-int main(void) {
+int step(int n) { return 3 * n + 1; }
 
-  srand(time(NULL));
+void run_test(int size, int gaps[], int number_of_gaps) {
+  printf("--------------\nGAPS FIB: ");
+  for (int i = 0; i < number_of_gaps; i++)
+    printf("%d ", gaps[i]);
+  printf("\n--------------\n");
 
-  const int SIZE = 20;
-  KV_Pair data[SIZE];
+  integer_run_test(size, size, gaps, number_of_gaps);
+  float_run_test(size, size, gaps, number_of_gaps);
+}
 
-  fib_run(data, SIZE);
+#define SIZE 100
+int main() {
+
+  int gaps_fib[SIZE];
+  int number_of_gaps_fib = 0;
+
+  int gaps_shell[SIZE];
+  int number_of_gaps_shell = 0;
+
+  generate_gaps_fib(gaps_fib, &number_of_gaps_fib, SIZE);
+
+  generate_gaps_shell(gaps_shell, &number_of_gaps_shell, SIZE, step);
+
+  run_test(SIZE, gaps_fib, number_of_gaps_fib);
+  // run_test(SIZE, gaps_shell, number_of_gaps_shell);
 
   return 0;
 }
