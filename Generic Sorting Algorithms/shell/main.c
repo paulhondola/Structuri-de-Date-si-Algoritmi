@@ -65,7 +65,7 @@ void float_run_test(int size, int max_value, int gaps[], int number_of_gaps) {
 int step(int n) { return 3 * n + 1; }
 
 void run_test(int size, int gaps[], int number_of_gaps) {
-  printf("--------------\nGAPS FIB: ");
+  printf("--------------\nGAPS: ");
   for (int i = 0; i < number_of_gaps; i++)
     printf("%d ", gaps[i]);
   printf("\n--------------\n");
@@ -88,7 +88,7 @@ int main() {
   generate_gaps_shell(gaps_shell, &number_of_gaps_shell, SIZE, step);
 
   run_test(SIZE, gaps_fib, number_of_gaps_fib);
-  // run_test(SIZE, gaps_shell, number_of_gaps_shell);
+  run_test(SIZE, gaps_shell, number_of_gaps_shell);
 
   return 0;
 }

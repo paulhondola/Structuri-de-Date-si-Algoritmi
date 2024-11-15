@@ -1,18 +1,17 @@
 #include "quicksort.h"
 #include <string.h>
 
-// Utility function to swap two elements using memcpy
-void swap(void *a, void *b, int element_size) {
+void swap(void *a, void *b, size_t element_size) {
   char temp[element_size];
   memcpy(temp, a, element_size);
   memcpy(a, b, element_size);
   memcpy(b, temp, element_size);
 }
 
-// Partition function for quicksort
-int partition(void *arr, int low, int high, int element_size, Comparator comp) {
+int partition(void *arr, int low, int high, size_t element_size,
+              Comparator comp) {
   char *base = (char *)arr;
-  void *pivot = base + high * element_size; // Pivot element is the last element
+  void *pivot = base + high * element_size;
   int i = low - 1;
 
   for (int j = low; j < high; j++) {
@@ -26,13 +25,15 @@ int partition(void *arr, int low, int high, int element_size, Comparator comp) {
   return (i + 1);
 }
 
-// Recursive quicksort function
-void quicksort(void *arr, int low, int high, int element_size, Comparator cmp) {
+void quicksort_aux(void *arr, int low, int high, size_t element_size,
+                   Comparator cmp) {
   if (low < high) {
     int pivot_index = partition(arr, low, high, element_size, cmp);
-
-    // Recursively sort elements before and after partition
-    quicksort(arr, low, pivot_index - 1, element_size, cmp);
-    quicksort(arr, pivot_index + 1, high, element_size, cmp);
+    quicksort_aux(arr, low, pivot_index - 1, element_size, cmp);
+    quicksort_aux(arr, pivot_index + 1, high, element_size, cmp);
   }
+}
+
+void quicksort(void *arr, size_t size, size_t element_size, Comparator cmp) {
+  quicksort_aux(arr, 0, size - 1, element_size, cmp);
 }

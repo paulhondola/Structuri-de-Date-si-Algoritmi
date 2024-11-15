@@ -1,0 +1,1585 @@
+An	Durata	Vizionari	 nr_viz  Titlu	Categorie	Premii					
+1972	15	5000	My Country Right or Wrong	War	Nu					
+1942	18	6000	"Battle of Midway, The"	War	Nu					
+1970	26	4500	Bloopers from Star Trek	Comedy	Nu					
+1956	27	2000	"Case of the Mukkinese Battle Horn, The"	Comedy	Nu					
+1991	28	3500	Kids & Pesticides	Drama	Nu					
+1993	30	2000	"Alfred Hitchcock Presents, Sorcerer's Apprentice"	Mystery	Nu					
+1954	30	3000	Bank on the Stars	Drama	Nu					
+1989	30	3500	Matt Talbot	Drama	Nu					
+1954	40	4000	Inauguration of the Pleasure Dome	Short	Nu					
+1991	40	4000	"National Enquirer, The Untold Story"	Music	Nu					
+1990	45	1500	This Is Horror	Horror	Nu					
+1986	49	1500	Jay Leno: The American Dream	Comedy	Nu					
+1983	50	5000	"Father Murphy, A Horse from Heaven"	Comedy	Nu					
+1987	50	4000	"Madonna Live, The Virgin Tour"	Music	Nu					
+1990	50	1000	"Industrial Symphony, The Dream of the Broken-Hearted"	Music	Nu					
+1964	51	5000	"Outer Limits, The"	Science Fiction	Nu					
+1992	52	6000	"Persuaders, The Overture, The"	Mystery	Nu					
+1986	52	4500	Howie Mandel's North American Watusi Tour	Comedy	Nu					
+1991	52	4500	"Lawless Frontier, The"	Western	Nu					
+1991	52	6000	Riders of Destiny	Western	Nu					
+1993	53	1000	"Big Bands, The"	Music	Nu					
+1992	53	1000	"Gotta Dance, Gotta Sing"	Music	Nu					
+1947	53	4000	Law of the Lash	Western	Nu					
+1992	53	5000	Return of the Lash	Action	Nu					
+1991	53	5000	Randy Rides Alone	Western	Nu					
+1935	54	5000	"Desert Trail, The"	Western	Nu					
+1992	54	1500	Border Feud	Action	Nu					
+1934	54	6000	Hell Town	Western	Nu					
+1934	54	3500	Lucky Texan	Western	Nu					
+1991	54	2500	Neath the Arizona Skies	Western	Nu					
+1985	55	3500	Gonzo Presents Muppet Weird Stuff	Comedy	Nu					
+1985	55	1500	Rowlf's Rhapsodies with the Muppets	Comedy	Nu					
+1989	55	3500	"Will Rogers, Look Back in Laughter"	Comedy	Nu					
+1938	55	1000	Overland Stage Raiders	Western	Nu					
+1938	55	1000	Pals of the Saddle	Western	Nu					
+1939	55	5500	Frontier Horizon	Western	Nu					
+1990	56	3500	"Best of Candid Camera, The"	Comedy	Nu					
+1947	56	1500	Hawk of Powder River	Western	Nu					
+1941	56	1500	Man from Montana	Western	Nu					
+1940	56	4500	Riders of Pasco Basin	Western	Nu					
+1985	56	3000	Fozzie's Muppet Scrapbook	Comedy	Nu					
+1947	56	5500	West to Glory	Western	Nu					
+1992	56	2500	"Dawn Rider, The"	Western	Nu					
+1991	56	2500	King of the Pecos	Western	Nu					
+1991	56	1000	"Lawless Nineties, The"	Western	Nu					
+1923	57	2500	Desert Rider	Western	Nu					
+1941	57	5500	Bury Me Not on the Lone Prairie	Western	Nu					
+1940	57	5500	Law & Order	Western	Nu					
+1955	57	2000	Jack Benny Show	Comedy	Nu					
+1949	58	2500	Crashing Thru	Western	Nu					
+1947	58	4000	"Fighting Vigilantes, The"	Western	Nu					
+1986	58	3000	"Monty Python's Flying Circus, Vol 3."	Comedy	Nu					
+1993	58	1500	Range Feud	Western	Nu					
+1937	59	1500	Swing It Sailor!	Comedy	Nu					
+1949	59	5500	Law of the Golden West	Western	Nu					
+1948	59	2000	Bandits of Dark Canyon	Western	Nu					
+1948	59	2500	"Wild Frontier, The"	Western	Nu					
+1990	59	4500	"Erasure, Live Wild!"	Music	Nu					
+1949	59	5000	Shadows of the West	Western	Nu					
+1986	59	4000	"Monty Python's Flying Circus, Vol 2."	Comedy	Nu					
+1992	59	2000	Lawless Frontier	Western	Nu					
+1983	60	2500	"Best of the Big Laff Off, The"	Comedy	Nu					
+1993	60	2000	"Bill Cosby, Live at Harrah's"	Comedy	Nu					
+1992	60	6000	"America's Music, Gospel"	Music	Nu					
+1989	60	4000	Minsky's Follies	Comedy	Nu					
+1927	60	5500	Easy Virtue	Mystery	Nu					
+1991	60	4000	Boxing Babes	Action	Nu					
+1992	60	3500	A Certain Sacrifice	Music	Nu					
+1990	60	6000	"Immaculate Collection, The"	Music	Nu					
+1987	60	2000	Encounters	Drama	Nu					
+1991	60	4000	"America's Music, Blues"	Music	Nu					
+1943	60	1000	"Lone Star Trail, The"	Western	Nu					
+1991	60	2000	Super Duper Bloopers	Comedy	Nu					
+1988	60	5000	Daphnis & Chloe	Music	Nu					
+1955	60	5000	Meet Millie	Drama	Nu					
+1949	60	3000	Pioneer Marshal	Western	Nu					
+1949	60	3000	Ranger of the Cherokee Strip	Western	Nu					
+1950	60	4500	Vanishing Westerner	Western	Nu					
+1948	60	4500	"Bold Frontiersman, The"	Western	Nu					
+1935	60	2000	Mysterious Mr. Wong	Mystery	Nu					
+1991	60	5000	"Burning Poles, Cecil Taylor in Performance"	Music	Nu					
+1991	60	1500	Garrison Keillor's Home	Comedy	Nu					
+1937	60	3000	"Throwback, The"	Western	Nu					
+1937	60	2000	Mystery of the Hooded Horsemen	Western	Nu					
+1937	60	5000	Tex Rides with the Boy Scouts	Western	Nu					
+1986	60	5000	Monty Python's Flying Circus	Comedy	Nu					
+1986	60	1500	"Monty Python's Flying Circus, Vol 1."	Comedy	Nu					
+1992	60	5000	Hollywood Mavericks	Comedy	Nu					
+1990	60	1000	Live at Harrah's	Comedy	Nu					
+1959	60	5500	"Rawhide, Premiere Episode"	Western	Nu					
+1959	60	4000	"Maverick, Duel at Sundown"	Western	Nu					
+1986	60	2500	Steve Martin Live!	Comedy	Nu					
+1974	60	4500	"Steve Martin, The Funnier Side of Eastern Canada"	Comedy	Nu					
+1987	60	3500	Joe Piscopo New Jersey Special	Comedy	Nu					
+1991	60	1000	"Joe Piscopo Video, The"	Comedy	Nu					
+1957	60	1000	"Cheyenne, The Iron Trail"	Western	Nu					
+1992	61	2500	Ladies of the Chorus	Music	Nu					
+1937	61	5000	"Swing It, Sailor!"	Comedy	Nu					
+1947	61	5500	Check Your Guns	Western	Nu					
+1989	61	4000	Exile in Concert	Music	Nu					
+1927	62	6000	"Drop Kick, The"	Drama	Nu					
+1935	64	1000	One Frightened Night	Horror	Nu					
+1943	64	3000	"Ape Man, The"	Horror	Nu					
+1993	65	3000	John Cleese on How to Irritate People	Comedy	Nu					
+1932	65	1500	Freaks	Horror	Nu					
+1988	65	6000	"Face at the Window, The"	Horror	Nu					
+1991	65	3000	Robin Williams	Comedy	Nu					
+1926	66	3000	Lodger (Story of the London Fog)	Mystery	Nu					
+1961	66	2000	Tonight for Sure	Comedy	Nu					
+1932	66	2500	Number Seventeen	Crime	Nu					
+1949	66	3500	Outlaw Country	Western	Nu					
+1955	67	6000	Killer's Kiss	Mystery	Nu					
+1931	68	4000	Ambassador Bill	Comedy	Nu					
+1929	68	4500	Racketeer	Drama	Nu					
+1945	69	3000	Woman Who Came Back	Drama	Nu					
+1983	69	2000	"Eddie Murphy, Delirious"	Comedy	Nu					
+1936	70	4500	Doughnuts & Society	Comedy	Nu					
+1986	71	4500	Paramount Comedy Theater: Well-Developed	Comedy	Nu					
+1972	71	1500	"Big Bust Out, The"	Action	Nu					
+1932	71	6000	As You Desire Me	Drama	Nu					
+1937	71	3000	"Ticket of Leave Man, The"	Mystery	Nu					
+1983	72	1000	After the Rehearsal	Drama	Nu					
+1933	72	4500	Baby Face	Drama	Nu					
+1992	72	2500	"American Film Institute, Alfred Hitchcock"	Mystery	Nu					
+1968	73	5500	"Firemen's Ball, The"	Comedy	Nu					
+1987	73	5000	J-Men Forever	Action	Nu					
+1957	73	6000	Time Lock	Drama	Nu					
+1938	74	5500	Dollar	Drama	Nu					
+1971	74	5500	"People, The"	Drama	Nu					
+1931	74	5000	Inspiration	Drama	Nu					
+1929	74	3500	"Single Standard, The"	Drama	Nu					
+1989	74	1000	B. A. D. Cats	Action	Nu					
+1935	75	2500	"Count of Old Town, The"	Comedy	Nu					
+1941	75	5000	Walpurgis Night	Drama	Nu					
+1993	75	1500	Employee's Entrance	Drama	Nu					
+1988	75	4000	Let It Rock	Drama	Nu					
+1953	75	4500	"Goon Show Movie, The"	Comedy	Nu					
+1977	75	5000	Comedy Tonight	Comedy	Nu					
+1988	76	1000	Daffy Duck's Quackbusters	Action	Nu					
+1930	76	5500	Romance	Drama	Nu					
+1991	76	6000	Slumber Party Massacre III	Horror	Nu					
+1993	76	4000	Return Engagement	Drama	Nu					
+1966	76	2500	Flight to Fury	Action	Nu					
+1958	77	5000	That Naughty Girl	Comedy	Nu					
+1936	77	5500	Sabotage	Mystery	Nu					
+1984	77	5500	"Secret Policeman's Private Parts, The"	Comedy	Nu					
+1972	78	2000	Say Goodbye Maggie Cole	Drama	Nu					
+1927	78	1500	My Best Girl	Drama	Nu					
+1949	78	4000	"Devil's Wanton, The"	Drama	Nu					
+1988	78	5000	Hot Money	Drama	Nu					
+1992	79	2500	Blame It on the Bellboy	Comedy	Nu					
+1953	79	3500	"Wild One, The"	Drama	Nu					
+1953	79	6000	Appointment in Honduras	Drama	Nu					
+1989	80	4000	Skull	Drama	Nu					
+1934	80	2500	Judge Priest	Drama	Nu					
+1969	80	4500	Rebel Rousers	Action	Nu					
+1991	80	5500	Going Under	Comedy	Nu					
+1963	80	3000	Winter Light	Drama	Nu					
+1939	80	3500	Allegheny Uprising	Drama	Nu					
+1937	80	1000	Young & Innocent	Mystery	Nu					
+1991	80	5500	Hollywood's Greatest War Movies	War	Nu					
+1954	81	6000	Fear	Drama	Nu					
+1948	81	1500	Rope	Drama	Nu					
+1940	81	1000	Lady in Question	Drama	Nu					
+1989	81	6000	Deep Cover	Mystery	Nu					
+1967	81	1000	"Glory Stompers, The"	Action	Nu					
+1988	81	4000	Another Woman	Drama	Nu					
+1988	81	1000	"Smallest Show on Earth, The"	Comedy	Nu					
+1966	81	4500	Persona	Drama	Da					
+1963	81	5000	"Terror, The"	Horror	Nu					
+1982	81	4000	Monty Python Live at the Hollywood Bowl	Comedy	Nu					
+1957	82	3000	Brink of Life	Drama	Nu					
+1983	82	2500	"Final Terror, The"	Horror	Nu					
+1975	82	3000	Love & Death	Comedy	Nu					
+1986	82	4000	"Whoopee Boys, The"	Comedy	Nu					
+1974	82	1500	"Catamount Killing, The"	Action	Nu					
+1966	82	5000	Ride in the Whirlwind	Western	Nu					
+1985	82	3000	"Angelic Conversation, The"	Comedy	Nu					
+1945	82	5500	Dakota	Western	Nu					
+1943	82	1000	Sanshiro Sugata	Drama	Nu					
+1988	83	5000	Nadine	Comedy	Nu					
+1953	83	6000	Voyage in Italy	Drama	Nu					
+1940	83	3000	Seven Sinners	Drama	Nu					
+1989	83	5000	"Stripped to Kill II, Live Girls"	Mystery	Nu					
+1989	83	5500	Masque of the Red Death	Horror	Nu					
+1991	83	4000	Strictly Business	Comedy	Nu					
+1988	83	5500	Hot to Trot	Comedy	Nu					
+1987	83	5500	Surf Nazis Must Die	Horror	Nu					
+1988	83	3000	Control	Drama	Nu					
+1990	83	4500	U S. Sub Standard.	Comedy	Nu					
+1986	83	1000	Blue City	Action	Nu					
+1992	83	1500	Apache Woman	Western	Nu					
+1956	83	5500	"Killing, The"	Drama	Nu					
+1958	83	4500	Up the Creek	Comedy	Nu					
+1951	83	1000	Rashomon	Drama	Da					
+1984	83	3500	"Manhunt, The"	Action	Nu					
+1992	83	6000	"Devil's Disciple, The"	Mystery	Nu					
+1929	84	2500	Blackmail	Mystery	Nu					
+1936	84	6000	Secret Agent	Mystery	Nu					
+1985	84	5500	"Purple Rose of Cairo, The"	Comedy	Da					
+1931	84	5000	"Susan Lennox, Her Fall & Rise"	Drama	Nu					
+1949	84	3000	Three Strange Loves	Drama	Nu					
+1986	84	6000	Stewardess School	Comedy	Nu					
+1971	84	5500	"Statue, The"	Drama	Nu					
+1992	84	3500	Dragonfight	Drama	Nu					
+1989	84	2000	Police Academy 6: City under Siege	Comedy	Nu					
+1986	84	1000	Police Academy 3: Back in Training	Comedy	Nu					
+1989	84	4500	"Dear America, Letters Home from Vietnam"	War	Nu					
+1988	84	3000	Night Tide	Drama	Nu					
+1991	84	3500	Two-Way Stretch	Comedy	Nu					
+1942	85	2000	Wheel of Fortune	Drama	Nu					
+1992	85	2500	Double Edge	Drama	Nu					
+1984	85	1500	Broadway Danny Rose	Comedy	Nu					
+1992	85	1500	Naked Obsession	Mystery	Nu					
+1934	85	3500	"Painted Veil, The"	Drama	Nu					
+1987	85	1000	Hot Child in the City	Mystery	Nu					
+1979	85	2000	Cocaine Cowboys	Action	Nu					
+1939	85	1000	Back Door to Heaven	Drama	Nu					
+1988	85	6000	Casablanca Express	Action	Nu					
+1941	85	3500	Lady from Louisiana	Drama	Nu					
+1991	85	3000	Circuitry Man	Action	Nu					
+1967	85	3000	"Trip, The"	Drama	Nu					
+1988	85	3500	Doin' Time on Planet Earth	Comedy	Da					
+1990	85	1000	Crash & Burn	Science Fiction	Nu					
+1950	85	5000	"Men, The"	Drama	Nu					
+1986	85	2500	Torment	Horror	Nu					
+1992	85	3000	Survival Zone	Action	Nu					
+1987	85	5500	Operation Nam	War	Nu					
+1967	85	2000	"Thirty Is a Dangerous Age, Cynthia"	Comedy	Nu					
+1975	85	1000	"Only Way Home, The"	Drama	Nu					
+1955	86	5000	Dreams	Drama	Nu					
+1969	86	5500	"Women, The"	Drama	Nu					
+1992	86	5000	Hurricane Smith	Action	Nu					
+1987	86	3500	Fair Game	Action	Nu					
+1950	86	2500	Wagon Master	Western	Nu					
+1991	86	2000	Blind Man's Bluff	Mystery	Nu					
+1989	86	6000	Let It Ride	Comedy	Nu					
+1987	86	1000	Straight to Hell	Action	Nu					
+1972	86	4000	"Play It Again, Sam"	Comedy	Nu					
+1989	86	1000	Dracula's Widow	Horror	Nu					
+1981	86	1000	Polyester	Comedy	Nu					
+1980	86	6000	Pepi Luci Bom	Comedy	Nu					
+1987	86	4500	House of the Rising Sun	Drama	Nu					
+1963	86	3500	"Raven, The"	Horror	Nu					
+1990	86	1500	Wagonmaster	Western	Nu					
+1989	86	4500	Cyborg	Action	Nu					
+1983	86	4000	Scream	Horror	Nu					
+1987	86	5000	Disorderlies	Comedy	Nu					
+1973	87	2500	Ms. Don Juan	Drama	Nu					
+1939	87	1500	Only One Night	Drama	Nu					
+1986	87	1000	Monster in the Closet	Comedy	Nu					
+1973	87	4500	Stacey!	Action	Nu					
+1989	87	2500	Videodrome	Horror	Nu					
+1948	87	5500	Lady from Shanghai	Mystery	Nu					
+1988	87	3500	Souvenir	Drama	Nu					
+1991	87	2000	Scenes from a Mall	Comedy	Nu					
+1986	87	1500	Cobra	Action	Nu					
+1987	87	2000	Mistress	Drama	Nu					
+1991	87	2500	To Die Standing	Action	Nu					
+1990	87	4500	"All New Tales from the Crypt, A Trilogy"	Horror	Nu					
+1972	87	2500	Hannie Caulder	Drama	Nu					
+1947	87	2000	Night Is My Future	Drama	Nu					
+1936	87	5500	Modern Times	Comedy	Nu					
+1931	87	4000	A Nous la Liberte	Drama	Nu					
+1975	87	2000	They Came from Within	Horror	Nu					
+1991	87	6000	Killer Tomatoes Strike Back	Comedy	Nu					
+1979	87	6000	Attack of the Killer Tomatoes	Comedy	Nu					
+1955	87	4500	"Ladykillers, The"	Comedy	Nu					
+1991	87	1500	Father's Little Dividend	Comedy	Nu					
+1992	87	1000	"Law & Jake Wade, The"	Drama	Nu					
+1989	88	1000	Final Notice	Mystery	Nu					
+1942	88	4000	Lady for a Night	Drama	Nu					
+1986	88	3500	Running Out of Luck	Comedy	Nu					
+1986	88	4500	Seven Minutes in Heaven	Comedy	Nu					
+1988	88	6000	"Blue Iguana, The"	Drama	Nu					
+1992	88	4000	Adventures in Dinosaur City	Action	Nu					
+1973	88	5500	Sleeper	Comedy	Nu					
+1987	88	2000	"Arrogant, The"	Drama	Nu					
+1959	88	6000	Carlton-Browne of the F.O.	Comedy	Nu					
+1989	88	1000	Women on the Verge of a Nervous Breakdown	Comedy	Nu					
+1992	88	5000	Back in the U.S.S.R.	Action	Nu					
+1978	88	5000	Silent Movie	Comedy	Nu					
+1991	88	3500	Born to Ride	Action	Nu					
+1989	88	5500	"Money, The"	Drama	Nu					
+1990	88	3500	"Kissing Place, The"	Drama	Nu					
+1985	88	2500	Roller Blade	Action	Nu					
+1979	88	1500	"Treasure Seekers, The"	Action	Nu					
+1989	88	2000	Center of the Web	Mystery	Nu					
+1968	88	4000	Hour of the Wolf	Drama	Nu					
+1990	88	2000	Amazon	Action	Nu					
+1959	88	6000	"Virgin Spring, The"	Drama	Da					
+1981	88	5000	Going Ape	Comedy	Nu					
+1987	88	6000	Hell Comes to Frogtown	Science Fiction	Nu					
+1935	88	4000	"Thirty-Nine Steps, The"	Science Fiction	Nu					
+1971	88	5500	And Now for Something Completely Different	Comedy	Nu					
+1948	88	2000	Criss Cross	Drama	Nu					
+1971	88	5000	Joe Kidd	Western	Nu					
+1993	88	6000	Great White Death	Action	Nu					
+1991	89	2500	Bloodbath	Horror	Nu					
+1974	89	5500	Monty Python & the Holy Grail	Comedy	Nu					
+1990	89	2500	Quick Change	Comedy	Nu					
+1975	89	1500	"Terrorists, The"	Action	Nu					
+1989	89	4000	Fire & Rain	Action	Nu					
+1990	89	2000	Bloodsucking Pharaohs in Pittsburgh	Comedy	Nu					
+1979	89	1500	Buffet Froid	Comedy	Nu					
+1989	89	3000	After School	Drama	Nu					
+1936	89	4000	Libeled Lady	Comedy	Nu					
+1991	89	2500	If Looks Could Kill	Action	Nu					
+1987	89	2500	Business As Usual	Comedy	Nu					
+1988	89	2000	Salome's Last Dance	Comedy	Nu					
+1977	89	3000	"World's Greatest Lover, The"	Comedy	Nu					
+1986	89	5500	True Stories	Comedy	Nu					
+1992	89	4000	"Flame & the Arrow, The"	Action	Nu					
+1957	89	5500	Paths of Glory	Drama	Nu					
+1989	89	4000	"Nightmare on Elm Street, Pt. 5, The Dream Child"	Horror	Nu					
+1948	89	3500	Return of October	Comedy	Nu					
+1986	89	3000	Water	Comedy	Nu					
+1990	89	1500	A Chorus of Disapproval	Comedy	Nu					
+1988	89	5000	Cheerleader Camp	Horror	Nu					
+1986	89	4500	Legend	Science Fiction	Nu					
+1988	89	2000	Phantom of the Ritz	Horror	Nu					
+1974	89	4500	"Little Prince, The"	Music	Nu					
+1991	89	6000	Green Glove	Drama	Nu					
+1970	89	1000	Menace on the Mountain	Action	Nu					
+1963	89	5000	"Crawling Hand, The"	Science Fiction	Nu					
+1960	90	5000	"Devil's Eye, The"	Drama	Nu					
+1992	90	1500	Germicide	Drama	Nu					
+1991	90	4000	"Henry, Portrait of a Serial Killer"	Horror	Nu					
+1988	90	2500	Dr Alien	Science Fiction	Nu					
+1959	90	4500	Voulez-Vous Danser Avec Moi?	Comedy	Nu					
+1958	90	4500	"Bride Is Much Too Beautiful, The"	Comedy	Nu					
+1955	90	3500	Doctor at Sea	Comedy	Nu					
+1957	90	6000	And God Created Woman	Drama	Nu					
+1972	90	5000	"Scarlet Letter, The"	Drama	Nu					
+1940	90	5000	June Night	Drama	Nu					
+1935	90	5000	Swedenhielms	Drama	Nu					
+1990	90	1500	Twenty Four Hours in a Woman's Life	Drama	Nu					
+1988	90	5000	Golden Ninja Invasion	Action	Nu					
+1989	90	2000	"Vampire Raiders, Ninja Queen"	Action	Nu					
+1989	90	3000	Never on Tuesday	Drama	Nu					
+1989	90	5000	Puppet Master	Science Fiction	Nu					
+1980	90	1000	"Fifth Floor, The"	Mystery	Nu					
+1992	90	1500	Beauty & the Beast	Science Fiction	Nu					
+1967	90	4500	Elvira Madigan	Drama	Nu					
+1985	90	5000	Fantasy Man	Comedy	Nu					
+1992	90	5500	Diary of a Hitman	Drama	Nu					
+1928	90	2000	Woman of Affairs	Drama	Nu					
+1984	90	3000	Johnny Dangerously	Comedy	Nu					
+1986	90	5000	Knights & Emeralds	Drama	Nu					
+1986	90	3500	Running Mates	Drama	Nu					
+1989	90	5000	New Year's Day	Comedy	Nu					
+1983	90	6000	Blame It on Rio	Comedy	Nu					
+1987	90	4500	Superman IV: The Quest for Peace	Action	Nu					
+1970	90	1500	Quackser Fortune Has a Cousin in the Bronx	Comedy	Nu					
+1987	90	1000	Dragonard	Drama	Nu					
+1986	90	4500	Hard Choices	Drama	Nu					
+1987	90	2000	Ninja Masters of Death	Action	Nu					
+1974	90	3500	"Second Coming of Suzanne., The"	Drama	Nu					
+1988	90	4500	Big Top Pee-wee	Comedy	Nu					
+1968	90	5000	"Producers, The"	Comedy	Nu					
+1990	90	5000	Red Sonja	Action	Nu					
+1952	90	5500	Big Jim McLain	Western	Nu					
+1988	90	1000	Going for the Gold	Action	Nu					
+1988	90	6000	"Naked Gun: From the Files of Police Squad!, THe"	Comedy	Nu					
+1988	90	5000	Police Academy 5: Assignment Miami Beach	Comedy	Nu					
+1984	90	1500	Ransom	Drama	Nu					
+1987	90	2000	PK. & the Kid.	Drama	Nu					
+1976	90	4500	Black & White in Color	Comedy	Da					
+1971	90	3500	"Garden of the Finzi-Continis, The"	Drama	Da					
+1991	90	1000	Basil The Rat	Comedy	Nu					
+1979	90	4500	"Fawlty Towers, Gourmet Night, Waldorf Salad & The Kipper & the Corpse"	Comedy	Nu					
+1986	90	1500	Head Office	Comedy	Nu					
+1976	90	1500	Rocky	Drama	Da					
+1986	90	4500	French Lesson	Comedy	Nu					
+1943	90	2000	Lassie Come Home	Drama	Nu					
+1983	90	2000	"Man with Two Brains, The"	Comedy	Nu					
+1988	90	3000	Cannibal Women in the Avocado Jungle of Death	Comedy	Nu					
+1975	90	2500	"Wild Party, The"	Drama	Nu					
+1989	90	6000	"Savage Intruder, The"	Horror	Nu					
+1970	90	4500	Bloody Mama	Action	Nu					
+1977	90	5000	Tentacles	Horror	Nu					
+1949	90	5500	Lust for Gold	Drama	Nu					
+1983	90	3000	Le Dernier Combat	Drama	Nu					
+1984	90	6000	"Inside Man, The"	Action	Nu					
+1989	90	2000	American Autobahn	Drama	Nu					
+1990	90	1000	Big Bad John	Action	Nu					
+1987	90	2500	Empire of Spiritual Ninja	Action	Nu					
+1986	90	2000	"Ninja, the Violent Sorcerer"	Action	Nu					
+1954	90	6000	Human Desire	Drama	Nu					
+1978	90	1000	Eraserhead	Horror	Nu					
+1940	90	4000	In Old California	Western	Nu					
+1987	90	5500	Eddie Murphy Raw	Comedy	Nu					
+1987	90	4500	"Good Father, The"	Drama	Nu					
+1988	90	2500	Dark Age	Action	Nu					
+1993	90	5000	Duel	Mystery	Nu					
+1989	90	5500	"Van, The"	Comedy	Nu					
+1989	90	2500	"Branford Marsalis, Steep"	Music	Nu					
+1989	90	6000	Beartooth	Action	Nu					
+1979	90	6000	James Taylor in Concert	Music	Nu					
+1957	91	5500	Wild Strawberries	Drama	Da					
+1962	91	3500	Through a Glass Darkly	Drama	Da					
+1972	91	2500	Cries & Whispers	Drama	Da					
+1959	91	1500	Killers of Kilimanjaro	Action	Nu					
+1937	91	3000	Intermezzo	Drama	Nu					
+1987	91	4000	Programmed to Kill	Action	Nu					
+1991	91	4500	Raw Nerve	Mystery	Nu					
+1987	91	5500	Firehouse	Comedy	Nu					
+1987	91	1500	"Quick & The Dead, The"	Western	Nu					
+1977	91	6000	Rabid	Horror	Nu					
+1989	91	5500	Penn & Teller Get Killed	Comedy	Nu					
+1980	91	1500	It's My Turn	Comedy	Nu					
+1962	91	2000	Road to Hong Kong	Comedy	Nu					
+1945	91	5000	Flame of Barbary Coast	Western	Nu					
+1931	91	4000	Mata Hari	Drama	Nu					
+1975	91	3000	Adventures of Sherlock Holmes' Smarter	Comedy	Nu					
+1983	91	2000	"Outsiders, The"	Drama	Nu					
+1977	91	2000	Angela	Drama	Nu					
+1981	91	2000	So Fine	Comedy	Nu					
+1988	91	3500	In a Shallow Grave	Drama	Nu					
+1970	91	4500	"Man Who Haunted Himself, The"	Drama	Nu					
+1987	91	3500	Young Love: Lemon Popsicle Seven	Comedy	Nu					
+1988	91	4500	Track Twenty-Nine	Drama	Nu					
+1987	91	4000	Big Shots	Action	Nu					
+1983	91	4500	All the Right Moves	Drama	Nu					
+1986	91	5500	Mr Love.	Comedy	Nu					
+1970	91	1500	Start the Revolution Without Me	Comedy	Nu					
+1989	91	6000	Young Einstein	Comedy	Nu					
+1954	91	3000	Apache	Western	Nu					
+1989	91	1500	Too Beautiful for You	Drama	Nu					
+1986	91	1000	Wise Guys	Comedy	Nu					
+1987	91	3500	Penitentiary III	Action	Nu					
+1973	91	2500	Executive Action	Drama	Nu					
+1986	91	3000	"La Chevre, (The Goat)"	Drama	Nu					
+1983	91	1500	Strange Brew	Comedy	Nu					
+1953	91	1000	"Mummy's Revenge, The"	Horror	Nu					
+1991	91	6000	Out for Justice	Action	Nu					
+1960	91	5000	Never Let Go	Action	Nu					
+1932	92	6000	Rich & Strange	Drama	Nu					
+1982	92	3500	Fast Times at Ridgemont High	Comedy	Nu					
+1993	92	4000	"Naked Truth, The"	Comedy	Nu					
+1979	92	5000	"Brood, The"	Horror	Nu					
+1972	92	6000	Napoleon & Samantha	Comedy	Nu					
+1987	92	3500	Back to the Beach	Comedy	Nu					
+1930	92	1500	Anna Christie	Drama	Nu					
+1953	92	5000	Two Nights with Cleo	Drama	Nu					
+1955	92	2000	Il Bidone	Drama	Nu					
+1990	92	1000	After the Shock	Drama	Nu					
+1982	92	2500	48 Hrs.	Action	Nu					
+1980	92	4000	Rodeo Girl	Drama	Nu					
+1980	92	2500	"Final Countdown, The"	Action	Nu					
+1988	92	6000	Permanent Record	Drama	Nu					
+1972	92	5000	Fuzz	Action	Nu					
+1990	92	4000	"Sun Shines Bright, The"	Action	Nu					
+1990	92	6000	"Witches, The"	Science Fiction	Nu					
+1988	92	2500	Bloodsport	Action	Nu					
+1953	92	5500	His Majesty O'Keefe	Action	Nu					
+1976	92	5000	Street People	Action	Nu					
+1984	92	1500	Crackers	Action	Nu					
+1982	92	5500	An Evening with Robin Williams	Comedy	Nu					
+1988	92	3000	A Month in the Country	Drama	Nu					
+1988	92	2000	Judgement in Berlin	Drama	Nu					
+1985	92	5500	What Comes Around	Drama	Nu					
+1972	92	4000	"Culpepper Cattle Company, The"	Western	Nu					
+1982	92	3000	Alone in the Dark	Horror	Nu					
+1992	92	5500	"Dead Pool, The"	Action	Nu					
+1990	92	2500	Primal Rage	Mystery	Nu					
+1958	92	1000	Tom Thumb	Science Fiction	Nu					
+1991	92	2000	"Spencer Tracy Legacy, The"	Comedy	Nu					
+1946	93	4500	Crisis	Drama	Nu					
+1988	93	1500	"Lair of the White Worm, The"	Horror	Nu					
+1990	93	4000	"Court-Martial of Jackie Robinson, The"	Drama	Nu					
+1949	93	3500	She Wore a Yellow Ribbon	Western	Nu					
+1987	93	4500	Hot Pursuit	Drama	Nu					
+1984	93	3500	Reckless	Drama	Nu					
+1983	93	1500	Tender Mercies	Drama	Da					
+1987	93	1000	Bodycount	Action	Nu					
+1990	93	4500	A Show of Force	Drama	Nu					
+1989	93	5500	Streets of Fire	Action	Nu					
+1986	93	6000	"Golden Child, The"	Comedy	Nu					
+1950	93	5000	To Joy	Drama	Nu					
+1946	93	2500	Crack-Up	Mystery	Nu					
+1989	93	2500	Seizure	Horror	Nu					
+1990	93	1500	Web of Deceit	Drama	Nu					
+1987	93	4500	"Planes, Trains & Automobiles"	Comedy	Nu					
+1988	93	1500	"Diamond Trap, The"	Drama	Nu					
+1963	93	4000	Lilies of the Field	Drama	Da					
+1986	93	5000	Ruthless People	Comedy	Nu					
+1987	93	5500	Some Kind of Wonderful	Drama	Nu					
+1989	93	1000	Cookie	Comedy	Nu					
+1975	93	5000	That Lucky Touch	Action	Nu					
+1970	93	4000	Powderkeg	Western	Nu					
+1982	93	4500	Class of 1984	Drama	Nu					
+1973	93	2000	Santee	Western	Nu					
+1952	93	5500	"Othello, The Lost Masterpiece"	Drama	Nu					
+1980	93	2500	Cry of the Innocent	Drama	Nu					
+1978	94	1000	Days of Heaven	Drama	Nu					
+1970	94	3000	Think Dirty	Comedy	Nu					
+1969	94	4000	Easy Rider	Drama	Nu					
+1982	94	6000	"Eyes of the Amaryllis, The"	Drama	Nu					
+1984	94	3500	Best Defense	Comedy	Nu					
+1990	94	1000	Snow Kill	Drama	Nu					
+1981	94	5000	Looker	Science Fiction	Nu					
+1987	94	3500	Kandyland	Drama	Nu					
+1987	94	5000	Campus Man	Drama	Nu					
+1990	94	2500	"Rain Killer, The"	Mystery	Nu					
+1970	94	1000	There's a Girl in My Soup	Comedy	Nu					
+1987	94	1000	"Rita, Sue & Bob Too"	Comedy	Nu					
+1987	94	4000	Raising Arizona	Comedy	Nu					
+1977	94	1500	Annie Hall	Comedy	Da					
+1953	94	3000	Ugetsu Monogatari	Drama	Nu					
+1983	94	2000	Rumble Fish	Drama	Nu					
+1990	94	2500	Priceless Beauty	Science Fiction	Nu					
+1991	94	4500	Shock 'em Dead	Horror	Nu					
+1986	94	2000	RAD	Action	Nu					
+1980	94	2000	Out of the Blue	Drama	Nu					
+1991	94	1000	Nothing But Trouble	Comedy	Nu					
+1986	94	2000	One Crazy Summer	Comedy	Nu					
+1976	94	2500	"Front, The"	Drama	Nu					
+1939	94	5500	Jamaica Inn	Drama	Nu					
+1986	94	4000	A Smoky Mountain Christmas	Music	Nu					
+1979	94	2000	"Jerk, The"	Comedy	Nu					
+1988	94	5500	Her Alibi	Comedy	Nu					
+1988	94	5000	"Experts, The"	Comedy	Nu					
+1989	94	4000	Naked Lie	Drama	Nu					
+1985	94	6000	"Rumor Mill, The"	Drama	Nu					
+1941	94	6000	Texas	Western	Nu					
+1985	94	5000	My Science Project	Comedy	Nu					
+1953	94	3500	Vera Cruz	Action	Nu					
+1987	94	4500	"Wolf at the Door, The"	Drama	Nu					
+1990	94	3500	"Bellboy & the Playgirls, The"	Drama	Nu					
+1990	94	5500	"Final Alliance, The"	Action	Nu					
+1975	94	1500	Posse	Western	Nu					
+1979	94	4500	Monty Python's Life of Brian	Comedy	Nu					
+1945	94	3000	Blood on the Sun	Drama	Nu					
+1981	94	5500	Deadline	Mystery	Nu					
+1989	94	5500	"Wrong Arm of the Law, The"	Comedy	Nu					
+1955	95	2000	"Naked Night, The"	Drama	Nu					
+1992	95	4500	Alan & Naomi	Drama	Nu					
+1987	95	2500	Blind Date	Comedy	Nu					
+1984	95	2000	Samson & Delilah	Drama	Nu					
+1991	95	2000	Night Gallery	Horror	Nu					
+1989	95	3000	"Rape of the Sabines, The"	Action	Nu					
+1986	95	2500	Between Two Women	Drama	Nu					
+1988	95	5000	Gor	Action	Nu					
+1987	95	4000	Surrender	Comedy	Nu					
+1983	95	1000	Valley Girl	Comedy	Nu					
+1966	95	2500	Masculine Feminine	Drama	Nu					
+1931	95	2500	Arrowsmith	Drama	Nu					
+1985	95	5000	Stark	Mystery	Nu					
+1952	95	1000	Pat & Mike	Comedy	Nu					
+1992	95	6000	Juice	Drama	Nu					
+1987	95	6000	"Allnighter, The"	Comedy	Nu					
+1987	95	6000	Bullseye!	Comedy	Nu					
+1987	95	3500	Under Cover	Mystery	Nu					
+1987	95	5000	"Kitchen Toto, THe"	Drama	Nu					
+1941	95	6000	Mr. & Mrs. Smith	Comedy	Nu					
+1988	95	5500	Gator Bait II	Action	Nu					
+1992	95	6000	Riff Raff	Comedy	Nu					
+1953	95	2500	How to Marry a Millionaire	Comedy	Nu					
+1993	95	3000	Honeymoon in Vegas	Comedy	Nu					
+1984	95	6000	Getting Physical	Drama	Nu					
+1990	95	4500	Torn Apart	Drama	Nu					
+1990	95	3000	Dangerous Pursuit	Mystery	Nu					
+1924	95	1000	"Kriemhild's Revenge, The Nibelungenlied"	Drama	Nu					
+1992	95	2000	Until They Sail	Drama	Nu					
+1992	95	2500	"Violent Men, The"	Action	Nu					
+1991	95	5500	Dogfight	Action	Nu					
+1963	95	2500	"Silence, The"	Drama	Nu					
+1940	95	6000	Dark Command	Western	Nu					
+1985	95	1500	Teen Wolf	Drama	Nu					
+1966	95	5500	A Big Hand for the Little Lady	Comedy	Nu					
+1979	95	2000	Scum	Action	Nu					
+1953	95	6000	I Confess	Drama	Nu					
+1930	95	2500	Murder	Mystery	Nu					
+1976	95	5500	Creature from Black Lake	Horror	Nu					
+1991	95	3500	Fury	Drama	Nu					
+1985	95	1000	"Code Name, Emerald"	Drama	Nu					
+1987	95	2000	Hearts of Fire	Drama	Nu					
+1975	95	4500	"Great McGonagall, The"	Comedy	Nu					
+1956	96	4000	"Seventh Seal, The"	Drama	Nu					
+1996	96	5000	"Island of Dr. Moreau, The"	Horror	Nu					
+1988	96	3500	Split Decisions	Drama	Nu					
+1988	96	1500	Nightmare at Noon	Action	Nu					
+1971	96	1500	Carnal Knowledge	Drama	Nu					
+1958	96	2000	Torpedo Run	War	Nu					
+1991	96	2000	"Hearts of Darkness, A Filmmaker's Apocalypse"	Drama	Nu					
+1954	96	5000	A Lesson in Love	Comedy	Nu					
+1939	96	1000	"Old Maid, The"	Drama	Nu					
+1986	96	5000	"Fly, The"	Horror	Nu					
+1985	96	4000	Marbella	Action	Nu					
+1981	96	5000	"Cannonball Run, The"	Comedy	Nu					
+1944	96	4000	Jane Eyre	Drama	Nu					
+1935	96	5500	Anna Karenina	Drama	Da					
+1928	96	2000	"Mysterious Lady, The"	Drama	Nu					
+1987	96	2500	Nights in White Satin	Drama	Nu					
+1991	96	5500	Intimate Stranger	Mystery	Nu					
+1979	96	2000	Manhattan	Comedy	Da					
+1989	96	3000	Dead Calm	Mystery	Nu					
+1984	96	2000	Unfaithfully Yours	Comedy	Nu					
+1938	96	3500	Lady Vanishes	Mystery	Nu					
+1988	96	4500	Glitz	Mystery	Nu					
+1986	96	3000	Pretty in Pink	Drama	Nu					
+1992	96	1000	Shooting Elizabeth	Mystery	Nu					
+1947	96	5500	Angel & the Badman	Western	Nu					
+1985	96	4500	Out of the Darkness	Mystery	Nu					
+1992	96	2500	Defense of the Realm	Drama	Nu					
+1986	96	2500	Clockwise	Comedy	Nu					
+1984	96	2500	Dangerous Moves	Drama	Da					
+1988	96	4500	Baja Oklahoma	Comedy	Nu					
+1984	96	2500	Soggy Bottom U. S. A.	Comedy	Nu					
+1973	96	5000	Bang the Drum Slowly	Drama	Nu					
+1953	96	2000	Dangerous When Wet	Music	Nu					
+1992	96	1000	A Day in October	Drama	Nu					
+1990	96	5500	Chattahoochee	Drama	Nu					
+1962	96	1000	Sanjuro	Mystery	Nu					
+1984	96	4000	Roadhouse Sixty-Six	Action	Nu					
+1990	96	3500	My Blue Heaven	Comedy	Nu					
+1938	96	4500	Boys Town	Drama	Da					
+1988	96	2500	Salsa: The Motion Picture	Drama	Nu					
+1990	97	6000	Zandalee	Drama	Nu					
+1992	97	1500	Hunting	Mystery	Nu					
+1985	97	5500	After Hours	Comedy	Nu					
+1987	97	2000	Siesta	Drama	Nu					
+1978	97	4000	Autumn Sonata	Drama	Da					
+1989	97	1500	National Lampoon's Christmas Vacation	Comedy	Nu					
+1990	97	4000	"Novice, The"	Comedy	Nu					
+1946	97	5500	My Darling Clementine	Western	Nu					
+1987	97	5500	Barfly	Drama	Nu					
+1992	97	3000	Killer Image.	Mystery	Nu					
+1965	97	4000	Cat Ballou	Comedy	Da					
+1933	97	5500	Queen Christina	Drama	Nu					
+1988	97	6000	Crossing Delancey	Comedy	Nu					
+1983	97	1500	Yellowbeard	Comedy	Nu					
+1983	97	4500	Breathless	Action	Nu					
+1991	97	5000	New Jack City	Action	Nu					
+1981	97	1500	Arthur	Comedy	Da					
+1976	97	5500	A Matter of Time	Drama	Nu					
+1987	97	3500	"Dreams Lost, Dreams Found"	Drama	Nu					
+1990	97	5500	Cadillac Man	Comedy	Nu					
+1988	97	1500	"Presidio, The"	Action	Nu					
+1989	97	1000	A Dry White Season	Drama	Nu					
+1986	97	3000	Maximum Overdrive	Horror	Nu					
+1987	97	3500	Hard Ticket to Hawaii	Action	Nu					
+1990	97	3500	Fellow Traveller	Drama	Nu					
+1980	97	2000	Marathon	Comedy	Nu					
+1970	97	3000	Spider's Stratagem	Drama	Nu					
+1985	97	5500	One Woman or Two	Comedy	Nu					
+1987	97	3500	"Lost Boys, The"	Horror	Nu					
+1986	97	2500	"Boy in Blue, The"	Drama	Nu					
+1991	97	4000	Rhapsody in August	Drama	Nu					
+1957	97	4500	Sweet Smell of Success	Drama	Nu					
+1990	97	5000	"Prom Night III, The Last Kiss"	Horror	Nu					
+1956	97	3000	Somebody up There Likes Me	Drama	Nu					
+1969	98	6000	A Walk in the Spring Rain	Drama	Nu					
+1956	98	2500	Elena & Her Men	Drama	Nu					
+1991	98	3000	Five Easy Pieces	Drama	Nu					
+1987	98	1500	Under the Sun of Satan	Drama	Nu					
+1971	98	5000	"Anderson Tapes, The"	Mystery	Nu					
+1988	98	4500	Stealing Home	Drama	Nu					
+1952	98	2500	Affair in Trinidad	Drama	Nu					
+1948	98	3500	"Loves of Carmen, The"	Drama	Nu					
+1972	98	2000	Last of the Red Hot Lovers	Comedy	Nu					
+1990	98	2500	Almost an Angel	Comedy	Nu					
+1986	98	1000	Crocodile Dundee	Comedy	Nu					
+1988	98	3000	Plain Clothes	Comedy	Nu					
+1992	98	4500	Secret Admirer	Comedy	Nu					
+1991	98	2000	Cat Chaser	Drama	Nu					
+1983	98	5000	Lovesick	Comedy	Nu					
+1988	98	2500	Caddyshack 2	Comedy	Nu					
+1986	98	5500	Trick or Treat	Horror	Nu					
+1983	98	4500	Packin' It In	Comedy	Nu					
+1986	98	4000	Summer	Comedy	Nu					
+1991	98	3000	Another You	Comedy	Nu					
+1990	98	4000	Trapper County War	Action	Nu					
+1990	98	1000	"Welcome Home, Roxy Carmichael"	Comedy	Nu					
+1958	98	1000	"Another Time, Another Place"	Drama	Nu					
+1961	98	3500	Paris Blues	Drama	Nu					
+1987	98	4500	Russkies	Action	Nu					
+1990	98	3500	Hiroshima	Drama	Nu					
+1991	98	1500	L. A. Story	Comedy	Nu					
+1990	98	1500	Another Forty-Eight Hours	Action	Nu					
+1989	99	3000	"American Angels: Baptism of Blood, The"	Drama	Nu					
+1957	99	1000	Mademoiselle Striptease	Comedy	Nu					
+1964	99	4000	"Ravishing Idiot, The"	Comedy	Nu					
+1948	99	4500	Secret Beyond the Door	Mystery	Nu					
+1984	99	2000	Dreamscape	Science Fiction	Nu					
+1943	99	1000	Destroyer	Action	Nu					
+1992	99	3000	Party Girl	Comedy	Nu					
+1966	99	4000	"Appaloosa, The"	Western	Nu					
+1983	99	1000	Risky Business	Comedy	Nu					
+1991	99	5500	Delicatessen	Comedy	Nu					
+1956	99	1500	Slightly Scarlet	Action	Nu					
+1988	99	3000	Tokyo Pop	Comedy	Nu					
+1992	99	1500	Memoirs of an Invisible Man	Comedy	Nu					
+1976	99	2000	Inserts	Drama	Nu					
+1991	99	2000	Paris Trout	Drama	Nu					
+1980	99	6000	Caddyshack	Comedy	Nu					
+1963	99	3500	Bedtime Story	Comedy	Nu					
+1967	99	1000	Woman Times Seven	Comedy	Nu					
+1952	99	3500	"Come Back, Little Sheba"	Drama	Da					
+1970	99	6000	Monte Walsh	Western	Nu					
+1972	99	5500	Cancel My Reservation	Comedy	Nu					
+1987	99	1500	River's Edge	Drama	Nu					
+1989	99	3500	Picasso Trigger	Action	Nu					
+1989	99	4500	She-Devil	Comedy	Nu					
+1989	99	2000	Driving Miss Daisy	Drama	Da					
+1973	99	3500	Ash Wednesday	Drama	Nu					
+1986	99	3500	Critical Condition	Comedy	Nu					
+1980	99	2500	Ffolkes	Action	Nu					
+1991	99	1000	What about Bob?	Comedy	Nu					
+1988	100	4000	Storm	Action	Nu					
+1992	100	3500	Eighty-Four Charing Cross Road	Drama	Nu					
+1987	100	5500	Sammy & Rosie Get Laid	Drama	Nu					
+1967	100	3000	"A Coeur Joie, (Head Over Heels)"	Action	Nu					
+1965	100	3000	Dear Brigitte	Comedy	Nu					
+1962	100	1000	"Le Repos Du Guerrier, (Warrior's Rest)"	War	Nu					
+1972	100	2500	Pocket Money	Comedy	Nu					
+1958	100	6000	Indiscreet	Drama	Nu					
+1948	100	2500	Joan of Arc	Drama	Nu					
+1986	100	2500	"Morning After, The"	Mystery	Nu					
+1929	100	2000	Wild Orchids	Drama	Nu					
+1988	100	3500	Clara's Heart	Drama	Nu					
+1985	100	4500	"Clan of the Cave Bear, The"	Drama	Nu					
+1984	100	3500	Swing Shift	Drama	Nu					
+1984	100	3000	Protocol	Comedy	Nu					
+1986	100	3500	Casino	Mystery	Nu					
+1986	100	6000	American Anthem	Drama	Nu					
+1948	100	3000	Port of Call	Drama	Nu					
+1990	100	5500	Hard To Kill	Action	Nu					
+1961	100	6000	Two Women	Drama	Da					
+1988	100	2000	"Ciao Italia, Madonna Live from Italy"	Music	Nu					
+1989	100	2000	"Forgotten, The"	Mystery	Nu					
+1980	100	2000	"Fiendish Plot of Dr. Fu Manchu, The"	Comedy	Nu					
+1955	100	5500	Mr. Arkadin	Drama	Nu					
+1955	100	5500	"Trouble with Harry, The"	Mystery	Nu					
+1992	100	2000	Class Act	Drama	Nu					
+1970	100	1500	Adam at 6 A.M.	Drama	Nu					
+1949	100	5000	"Fighting Kentuckian, The"	Action	Nu					
+1977	100	4000	Julia	Drama	Da					
+1973	100	2000	"Mackintosh Man, The"	Action	Nu					
+1972	100	1000	Le Charme Discret de la Bourgeoisie	Comedy	Da					
+1987	100	4000	Nuts	Drama	Nu					
+1937	100	5500	Wee Willie Winkie	Drama	Nu					
+1959	100	1000	"Magician, The"	Drama	Nu					
+1968	100	5000	"Scalphunters, The"	Western	Nu					
+1987	100	2000	Law of Desire	Drama	Nu					
+1962	100	1000	"Grim Reaper, The"	Drama	Nu					
+1944	100	3500	"Fighting Seabees, The"	War	Nu					
+1988	100	1000	Rocket Gibraltar	Drama	Nu					
+1971	100	4000	Willy Wonka & the Chocolate Factory	Music	Nu					
+1984	101	3500	Target Eagle	Action	Nu					
+1988	101	4500	Scrooged	Comedy	Nu					
+1987	101	4000	"Running Man, The"	Science Fiction	Nu					
+1971	101	1500	"Goalie's Anxiety at the Penalty Kick, The"	Drama	Nu					
+1992	101	5000	Cool World	Drama	Nu					
+1982	101	2500	Mother Lode	Action	Nu					
+1990	101	1500	Act of Piracy	Mystery	Nu					
+1946	101	5000	Notorious	Mystery	Nu					
+1973	101	4500	White Lightning	Action	Nu					
+1958	101	6000	"Matchmaker, The"	Comedy	Nu					
+1986	101	3000	Instant Justice	Drama	Nu					
+1987	101	5000	Like Father Like Son	Comedy	Nu					
+1956	101	1500	Jubal	Drama	Nu					
+1989	101	1500	"Burbs, The"	Comedy	Nu					
+1991	101	2000	Adam's Rib	Comedy	Nu					
+1939	101	3500	Stanley & Livingstone	Action	Nu					
+1987	101	3000	My Life As a Dog	Comedy	Nu					
+1990	101	5500	Funny about Love	Comedy	Nu					
+1982	101	2000	Losin' It	Comedy	Nu					
+1960	101	1500	Heller in Pink Tights	Drama	Nu					
+1990	101	3500	Postcards from the Edge	Comedy	Nu					
+1992	101	2000	White Sands	Drama	Nu					
+1983	101	4500	"Reuben, Reuben"	Comedy	Nu					
+1969	101	5000	Smith!	Western	Nu					
+1951	101	2000	Strangers on a Train	Mystery	Nu					
+1988	101	1000	Funny Farm	Comedy	Nu					
+1964	101	6000	A Shot in the Dark	Comedy	Nu					
+1975	101	2000	"Driver's Seat, The"	Drama	Nu					
+1988	101	2000	Mystic Pizza	Comedy	Nu					
+1984	101	1500	Crimes of Passion	Drama	Nu					
+1969	101	2000	"Passion of Anna, The"	Drama	Nu					
+1966	101	4000	"Shoot Loud, Louder, I Don't Understand!"	Mystery	Nu					
+1987	101	3500	Black Widow	Mystery	Nu					
+1942	101	4500	Flying Tigers	Action	Nu					
+1982	101	2500	"Secret Policeman's Other Ball, The"	Comedy	Nu					
+1992	101	1500	Romulus & the Sabines	Action	Nu					
+1991	101	1000	I'm All Right Jack	Comedy	Nu					
+1991	101	4000	"Magic Christian, The"	Comedy	Nu					
+1991	101	4000	Keeper of the Flame	Drama	Nu					
+1971	102	1500	A New Leaf	Comedy	Nu					
+1987	102	6000	Babette's Feast	Drama	Da					
+1964	102	5500	Contempt	Drama	Nu					
+1977	102	4000	Mary White	Drama	Nu					
+1990	102	4500	Nightbreed	Horror	Nu					
+1990	102	1500	"End of Innocence, The"	Drama	Nu					
+1991	102	2000	Hunchback	Drama	Nu					
+1959	102	4500	"Horse Soldiers, The"	Western	Nu					
+1987	102	4500	Burglar	Comedy	Nu					
+1992	102	5000	Housesitter	Comedy	Nu					
+1980	102	1000	Seems Like Old Times	Comedy	Nu					
+1973	102	2000	Tom Sawyer	Music	Nu					
+1992	102	5500	"Addams Family, The"	Comedy	Nu					
+1988	102	4000	"Night Train to Katmandu, THe"	Action	Nu					
+1969	102	2500	"Rain People, The"	Drama	Nu					
+1991	102	2500	Curly Sue	Comedy	Nu					
+1987	102	6000	Made in Heaven	Fantasy	Nu					
+1989	102	4000	Dead-Bang	Action	Nu					
+1984	102	5000	No Small Affair	Comedy	Nu					
+1990	102	3000	Wait Until Spring Bandini	Drama	Nu					
+1984	102	2000	"Ratings Game, The"	Comedy	Nu					
+1991	102	5500	"Comfort of Strangers, The"	Mystery	Nu					
+1990	102	2500	Joe Versus the Volcano	Comedy	Nu					
+1971	102	5500	Dirty Harry	Drama	Nu					
+1966	102	5500	Johnny Tiger	Drama	Nu					
+1984	102	1500	Sword of the Valiant	Action	Nu					
+1971	102	4500	Play Misty for Me	Mystery	Nu					
+1973	102	2000	"Cahill, United States Marshal"	Western	Nu					
+1964	102	5000	A Fistful of Dollars	Westerns	Nu					
+1968	102	2500	"Rachel, Rachel"	Drama	Nu					
+1991	102	5000	"Freshman, The"	Comedy	Nu					
+1951	102	1000	Flying Leathernecks	Action	Nu					
+1983	102	4000	"Survivors, The"	Comedy	Nu					
+1991	102	1500	Instant Karma	Comedy	Nu					
+1993	102	1000	Today We Kill....Tomorrow We Die	Western	Nu					
+1992	102	5500	"Left Handed Gun, The"	Western	Nu					
+1966	103	1500	A Man & a Woman	Drama	Da					
+1966	103	3000	Un Hombre y una Mujer	Drama	Da					
+1954	103	2000	Elephant Walk	Drama	Nu					
+1988	103	6000	Appointment with Death	Mystery	Nu					
+1989	103	3500	Miami Cops	Action	Nu					
+1989	103	2000	Vampire's Kiss	Comedy	Nu					
+1945	103	5000	Scarlet Street	Drama	Nu					
+1969	103	5000	Cactus Flower	Comedy	Da					
+1968	103	4000	Charly	Drama	Da					
+1988	103	3500	"Year My Voice Broke, The"	Drama	Nu					
+1987	103	3500	Moonstruck	Comedy	Da					
+1968	103	2500	Coogan's Bluff	Action	Nu					
+1989	103	2500	Pet Sematary	Horror	Nu					
+1948	103	5500	Three Godfathers	Western	Nu					
+1980	103	4500	I Love All of You (Je Vous Aime)	Drama	Nu					
+1988	103	3500	Stand & Deliver	Drama	Nu					
+1966	103	2500	After the Fox	Comedy	Nu					
+1967	103	4000	"Bobo, The"	Comedy	Nu					
+1986	103	4000	Hannah & Her Sisters	Comedy	Da					
+1990	103	5500	Meridian	Science Fiction	Nu					
+1989	103	4500	My Left Foot	Drama	Da					
+1974	103	5500	"Girl from Petrovka, The"	Drama	Nu					
+1973	103	4500	A Touch of Class	Comedy	Da					
+1973	103	1500	Paper Moon	Comedy	Da					
+1988	103	5000	"Deceivers, The"	Action	Nu					
+1955	103	6000	To Catch a Thief	Mystery	Nu					
+1986	103	4500	Fire with Fire	Drama	Nu					
+1975	103	1000	"Sunshine Boys, The"	Comedy	Da					
+1960	103	1000	"Time Machine, The"	Science Fiction	Nu					
+1987	103	3000	Beverly Hills Cop II	Comedy	Nu					
+1987	103	5500	Au Revoir les Enfants	Drama	Nu					
+1986	103	1000	Ferris Bueller's Day Off	Comedy	Nu					
+1988	103	1000	Cocktail	Drama	Nu					
+1978	103	5000	California Suite	Comedy	Da					
+1993	103	3000	Romantic Comedy	Comedy	Nu					
+1992	103	2000	Death Becomes Her	Drama	Nu					
+1986	103	3500	Peggy Sue Got Married	Drama	Nu					
+1947	103	1500	Magic Town	Drama	Nu					
+1987	103	3000	Heat	Mystery	Nu					
+1966	103	4500	"Quiller Memorandum, The"	Mystery	Nu					
+1990	103	1500	Altered States	Science Fiction	Nu					
+1989	103	2000	Blood & Guns	Action	Nu					
+1983	104	5000	"Dead Zone, The"	Horror	Nu					
+1985	104	4000	Subway	Drama	Nu					
+1958	104	2500	"Barbarian & the Geisha, The"	Action	Nu					
+1988	104	2500	A New Life	Comedy	Nu					
+1985	104	3500	Desperately Seeking Susan	Comedy	Nu					
+1987	104	4500	Lionheart	Action	Nu					
+1938	104	1500	A Woman's Face	Drama	Nu					
+1980	104	6000	From the Life of the Marionettes	Drama	Nu					
+1977	104	3500	"Island of Dr. Moreau, The"	Horror	Nu					
+1983	104	1000	Beyond the Limit	Drama	Nu					
+1989	104	5500	"Rainbow, The"	Drama	Nu					
+1990	104	1000	"Wait Until Spring, Bandini"	Drama	Nu					
+1991	104	3000	Hear My Song	Drama	Nu					
+1989	104	6000	Tango & Cash	Action	Nu					
+1950	104	2000	Harvey	Comedy	Nu					
+1989	104	2000	Erik the Viking	Action	Nu					
+1981	104	3000	"Hand, The"	Horror	Nu					
+1981	104	6000	Scanners	Horror	Nu					
+1989	104	6000	Married to the Mob	Comedy	Nu					
+1974	104	5500	Zardoz	Science Fiction	Nu					
+1986	104	2500	"Best of Times, The"	Comedy	Nu					
+1993	104	1500	It Started with a Kiss	Drama	Nu					
+1992	104	2000	"Unnamable II, The Statement of Randolph Carter, The"	Drama	Nu					
+1991	104	1500	Doc Hollywood	Comedy	Nu					
+1966	104	3000	A Fine Madness	Comedy	Nu					
+1971	104	5500	"French Connection, The"	Drama	Da					
+1985	104	5500	"Santa Claus, The Movie"	Comedy	Nu					
+1991	105	1500	Predator 2	Action	Nu					
+1990	105	1000	Guilty by Suspicion	Drama	Nu					
+1989	105	4500	Hideaways	Comedy	Nu					
+1973	105	2000	High Plains Drifter	Western	Nu					
+1985	105	1000	Vagabond	Drama	Nu					
+1946	105	5000	Tomorrow Is Forever	Drama	Nu					
+1984	105	3500	Beverly Hills Cop	Comedy	Nu					
+1962	105	2500	A Child Is Waiting	Drama	Nu					
+1986	105	2000	King Kong Lives!	Action	Nu					
+1990	105	6000	Dick Tracy	Comedy	Nu					
+1987	105	6000	Prettykill	Drama	Nu					
+1986	105	2000	Crimes of the Heart	Comedy	Nu					
+1986	105	2000	Ratboy	Drama	Nu					
+1977	105	2000	A Special Day	Drama	Da					
+1970	105	3500	Two Mules for Sister Sara	Western	Nu					
+1989	105	2000	Hawks	Drama	Nu					
+1940	105	1000	"Long Voyage Home, The"	Drama	Nu					
+1950	105	4500	Rio Grande	Western	Nu					
+1972	105	5000	"Hideaways, The"	Comedy	Nu					
+1974	105	4000	Steppenwolf	Drama	Nu					
+1968	105	6000	Partner	Drama	Nu					
+1975	105	2500	"Rocky Horror Picture Show, The"	Music	Nu					
+1977	105	5500	Madame Rosa	Drama	Da					
+1983	105	3000	Between Friends	Drama	Nu					
+1979	105	3500	Meteor	Action	Nu					
+1991	105	4500	"Fire, Ice & Dynamite"	Action	Nu					
+1964	105	3000	Ensign Pulver	Comedy	Nu					
+1973	105	4500	Deadly Trackers	Western	Nu					
+1992	105	5500	"Crimson Pirate, The"	Action	Nu					
+1967	105	4500	Chuka	Western	Nu					
+1978	106	3500	Magic	Mystery	Nu					
+1981	106	5500	"Woman Next Door, The"	Drama	Nu					
+1956	106	5500	Anastasia	Drama	Da					
+1992	106	2000	Medicine Man	Action	Nu					
+1984	106	3500	Beat Street	Drama	Nu					
+1990	106	4000	Alice	Comedy	Nu					
+1991	106	3500	Not Without My Daughter	Drama	Nu					
+1986	106	3500	Wildcats	Comedy	Nu					
+1976	106	1500	Robin & Marian	Action	Nu					
+1980	106	2500	Virus	Science Fiction	Nu					
+1984	106	1000	A Year of the Quiet Sun	Drama	Nu					
+1988	106	4000	She's Having a Baby	Comedy	Nu					
+1973	106	4000	Dillinger	Drama	Nu					
+1990	106	1000	In Too Deep	Drama	Nu					
+1990	106	3000	Desperate Hours	Mystery	Nu					
+1984	106	5500	Falling in Love	Drama	Nu					
+1985	106	4500	"Jewel of the Nile, The"	Action	Nu					
+1984	106	5500	Romancing the Stone	Action	Nu					
+1968	106	1000	Bandolero!	Western	Nu					
+1987	106	2500	"Squeeze, The"	Action	Nu					
+1965	106	6000	A Patch of Blue	Drama	Nu					
+1956	106	1000	"D-Day, The Sixth of June"	War	Nu					
+1946	106	2000	Cloak & Dagger	Mystery	Nu					
+1986	107	5000	Duet for One	Drama	Nu					
+1950	107	1500	Stromboli	Drama	Nu					
+1952	107	2500	Secrets of Women	Comedy	Nu					
+1990	107	1500	Gremlins 2: The New Batch	Comedy	Nu					
+1977	107	6000	March or Die	War	Nu					
+1987	107	5000	Roxanne	Comedy	Nu					
+1975	107	3000	Rooster Cogburn	Western	Nu					
+1990	107	2000	Days of Thunder	Action	Nu					
+1954	107	5000	"Gold of Naples, The"	Drama	Nu					
+1990	107	6000	Green Card	Comedy	Nu					
+1982	107	6000	Six Weeks	Drama	Nu					
+1989	107	4000	Star Trek V: The Final Frontier	Action	Nu					
+1957	107	4500	"Wings of Eagles, The"	Drama	Nu					
+1986	107	6000	Sweet Liberty	Comedy	Nu					
+1988	107	4000	Twins	Comedy	Nu					
+1970	107	1500	"Conformist, The"	Drama	Nu					
+1967	107	3000	Bedazzled	Comedy	Nu					
+1989	107	4000	Major League	Comedy	Nu					
+1966	107	6000	"Wrong Box, The"	Comedy	Nu					
+1986	107	4500	Down by Law	Comedy	Nu					
+1983	107	5000	Monty Python's the Meaning of Life	Comedy	Nu					
+1988	108	3500	Miles from Home	Drama	Nu					
+1978	108	1000	"Big Fix, The"	Mystery	Nu					
+1986	108	5500	Nobody's Fool	Comedy	Nu					
+1986	108	1500	No Mercy	Drama	Nu					
+1982	108	1500	King of Comedy	Drama	Nu					
+1989	108	2500	Shirley Valentine	Comedy	Nu					
+1988	108	1500	A Fish Called Wanda	Comedy	Da					
+1986	108	5000	Love Songs	Drama	Nu					
+1992	108	1000	Husbands & Wives	Comedy	Nu					
+1939	108	1000	Ninotchka	Comedy	Nu					
+1954	108	5500	Long John Silver	Action	Nu					
+1984	108	5000	"Terminator, The"	Action	Nu					
+1967	108	1500	Guess Who's Coming to Dinner	Drama	Da					
+1991	108	2500	Necessary Roughness	Comedy	Nu					
+1955	108	3000	Smiles of a Summer Night	Comedy	Nu					
+1990	108	5500	Flashback	Comedy	Nu					
+1991	108	3500	Prisoner of Honor.	Drama	Nu					
+1985	108	5000	"Trip to Bountiful, The"	Drama	Da					
+1971	108	3000	"Last Movie, The"	Drama	Nu					
+1965	108	3000	What's New Pussycat?	Comedy	Nu					
+1986	108	1500	Heartburn	Comedy	Nu					
+1972	108	3500	Hammersmith Is Out	Drama	Nu					
+1990	108	3500	"Bright Lights, Big City"	Drama	Nu					
+1943	108	3500	Shadow of a Doubt	Drama	Nu					
+1979	108	2000	"Prisoner of Zenda, The"	Comedy	Nu					
+1993	108	2500	"Offence, The"	Mystery	Nu					
+1991	108	6000	Edison the Man	Drama	Nu					
+1963	109	6000	Donovan's Reef	Comedy	Nu					
+1952	109	4000	What Price Glory?	War	Nu					
+1975	109	1500	Shampoo	Comedy	Da					
+1987	109	1000	O. C. & Stiggs	Comedy	Nu					
+1926	109	5500	"Flesh & the Devil, The"	Drama	Nu					
+1983	109	1000	"Star Chamber, The"	Drama	Nu					
+1982	109	6000	Best Friends	Comedy	Nu					
+1972	109	4500	Butterflies Are Free	Drama	Da					
+1974	109	5500	"Sugarland Express, The"	Drama	Nu					
+1961	109	1500	"Children's Hour, The"	Drama	Nu					
+1981	109	1500	On Golden Pond	Drama	Da					
+1976	109	5500	"I Will, I Will...For Now"	Comedy	Nu					
+1987	109	4000	"Big Town, The"	Drama	Nu					
+1978	109	1500	Get Out Your Handkerchiefs	Comedy	Da					
+1960	109	4500	Psycho	Horror	Nu					
+1977	109	5500	"Gauntlet, The"	Action	Nu					
+1957	109	5000	Legend of the Lost	Action	Nu					
+1988	109	1500	Unsettled Land	Drama	Nu					
+1989	109	2000	Winter People	Drama	Nu					
+1986	109	3000	Top Gun	Action	Nu					
+1984	109	1500	Racing with the Moon	Drama	Nu					
+1987	109	5000	Wisdom	Action	Nu					
+1980	109	6000	Wholly Moses!	Comedy	Nu					
+1990	109	2000	Impulse	Mystery	Nu					
+1939	109	2000	"John Wayne Matinee Double Feature, No. 1"	Western	Nu					
+1967	109	5500	Reflections in a Golden Eye	Drama	Nu					
+1968	109	3000	Secret Ceremony	Drama	Nu					
+1989	109	6000	Lean on Me	Drama	Nu					
+1986	109	2000	Young Sherlock Holmes	Mystery	Nu					
+1997	109	6000	Alien: resurrection	Science Fiction	Nu					
+1955	109	4500	I Died a Thousand Times	Drama	Nu					
+1989	109	5000	Next of Kin	Mystery	Nu					
+1974	109	3000	Juggernaut	Action	Nu					
+1971	109	2000	"Beguiled, The"	Drama	Nu					
+1985	109	5500	Les Comperes	Comedy	Nu					
+1988	110	5000	Tucker: The Man & His Dream	Drama	Nu					
+1979	110	3500	Quintet	Drama	Nu					
+1924	110	2500	"Siegfried, The Nibelungenlied"	Drama	Nu					
+1952	110	1500	Europa Fifty-One	Drama	Nu					
+1948	110	5000	Border Street	Drama	Nu					
+1931	110	3000	"Big Trail, The"	Western	Nu					
+1990	110	4000	"White Hunter, Black Heart"	Adventure	Nu					
+1962	110	4500	Sundays & Cybele	Drama	Da					
+1946	110	5500	A Stolen Life	Drama	Nu					
+1979	110	2500	"Great Train Robbery, The"	Mystery	Nu					
+1991	110	4000	Hanover Street	Drama	Nu					
+1979	110	6000	Norma Rae	Drama	Da					
+1936	110	4500	Camille	Drama	Nu					
+1986	110	6000	Highlander	Science Fiction	Nu					
+1980	110	1000	Private Benjamin	Comedy	Nu					
+1946	110	4500	Gilda	Drama	Nu					
+1980	110	2500	Loulou	Drama	Nu					
+1990	110	5000	Mystery Train	Comedy	Nu					
+1949	110	4500	Sands of Iwo Jima	War	Nu					
+1977	110	3500	"Goodbye Girl, The"	Comedy	Da					
+1990	110	2500	Modern Love	Comedy	Nu					
+1988	110	1500	"Accused, The"	Drama	Da					
+1989	110	4000	We're No Angels	Comedy	Nu					
+1991	110	3000	Star Trek VI: The Undiscovered Country	Science Fiction	Nu					
+1971	110	6000	Big Jake	Action	Nu					
+1969	110	5000	Butch Cassidy & the Sundance Kid	Western	Da					
+1989	110	1500	Cousins	Comedy	Nu					
+1991	110	3000	Freejack	Action	Nu					
+1984	110	3000	"Buddy System, The"	Drama	Nu					
+1954	110	2000	Desiree	Drama	Nu					
+1987	110	6000	"Secret of My Success, The"	Comedy	Nu					
+1972	110	5000	"X, Y & Zee"	Drama	Nu					
+1977	110	4000	A Little Night Music	Music	Nu					
+1990	110	1000	Border Shootout	Action	Nu					
+1969	110	3500	One Hundred Rifles	Western	Nu					
+1970	110	6000	Trash	Comedy	Nu					
+1950	110	2000	Stage Fright	Mystery	Nu					
+1946	110	5000	No Regrets for Our Youth	Drama	Nu					
+1957	110	1500	Throne of Blood	Drama	Nu					
+1961	110	4000	Yojimbo	Action	Nu					
+1939	110	3000	"John Wayne Matinee Double Feature, No. 3"	Western	Nu					
+1938	110	4000	"John Wayne Matinee Double Feature, No. 4"	Western	Nu					
+1990	111	2500	Tie Me Up! Tie Me Down!	Comedy	Nu					
+1985	111	6000	Power	Drama	Nu					
+1967	111	3000	Hombre	Western	Nu					
+1990	111	5000	Reversal of Fortune	Drama	Da					
+1975	111	6000	Brannigan	Drama	Nu					
+1992	111	3500	Pope of Greenwich Village	Drama	Nu					
+1978	111	4500	Brass Target	Action	Nu					
+1988	111	1500	"House on Carroll Street, The"	Mystery	Nu					
+1974	111	5000	Mc Q	Action	Nu					
+1951	111	1500	Operation Pacific	War	Nu					
+1971	111	5500	"Devils, The"	Drama	Nu					
+1991	111	4500	Flatliners	Drama	Nu					
+1986	111	3500	Gung Ho	Comedy	Nu					
+1981	111	1500	Outland	Science Fiction	Nu					
+1991	111	5000	"Seventh Cross, The"	Drama	Nu					
+1980	111	3000	Stir Crazy	Comedy	Nu					
+1955	111	1000	Rebel Without a Cause	Drama	Nu					
+1982	111	2000	Yol	Drama	Nu					
+1970	111	4500	Chisum	Western	Nu					
+1982	111	1500	"Return of Martin Guerre, The"	Drama	Nu					
+1986	112	4500	A Man & a Woman: Twenty Years Later	Drama	Nu					
+1985	112	1000	"Official Story, The"	Drama	Da					
+1964	112	4000	Goldfinger	Action	Nu					
+1975	112	2500	Alice Doesn't Live Here Anymore	Comedy	Da					
+1984	112	1500	Places in the Heart	Drama	Da					
+1932	112	1000	Grand Hotel	Drama	Da					
+1978	112	5000	Foul Play	Comedy	Nu					
+1987	112	2000	Overboard	Comedy	Nu					
+1991	112	4500	Without Love	Comedy	Nu					
+1987	112	3000	Tin Men	Comedy	Nu					
+1987	112	5500	Gardens of Stone	Drama	Nu					
+1957	112	4000	Jet Pilot	Action	Nu					
+1979	112	3500	Blood Feud	Action	Nu					
+1985	112	4000	Witness	Drama	Nu					
+1950	112	5000	"Asphalt Jungle, The"	Action	Nu					
+1963	112	3500	Hud	Drama	Da					
+1992	112	2500	Macbeth	Drama	Nu					
+1986	112	1500	From the Hip	Comedy	Nu					
+1991	112	2500	Defending Your Life	Comedy	Nu					
+1973	112	6000	American Graffiti	Comedy	Da					
+1983	112	1000	Local Hero	Comedy	Nu					
+1952	112	3500	Viva Zapata!	Drama	Da					
+1975	112	3500	"Yakuza, The"	Action	Nu					
+1970	112	6000	Burn!	Drama	Nu					
+1976	112	4500	Maitresse	Drama	Nu					
+1979	112	3500	Escape from Alcatraz	Drama	Nu					
+1992	112	6000	Conversation Piece	Drama	Nu					
+1939	112	5000	"John Wayne Matinee Double Feature, No. 2"	Western	Nu					
+1992	112	4500	McQ	Action	Nu					
+1991	113	3000	High Heels	Comedy	Nu					
+1968	113	3000	Shalako	Westerns	Nu					
+1989	113	5500	Twin Peaks	Mystery	Nu					
+1989	113	4500	Family Business	Action	Nu					
+1977	113	1500	Heroes	Drama	Nu					
+1979	113	2500	"Electric Horseman, The"	Comedy	Nu					
+1991	113	5000	"Philadelphia Story, The"	Comedy	Nu					
+1991	113	5500	Woman of the Year	Comedy	Nu					
+1954	113	2000	Rear Window	Mystery	Nu					
+1989	113	1000	Lethal Weapon 2	Action	Nu					
+1991	113	5000	Audrey Rose	Drama	Nu					
+1986	113	5500	About Last Night	Drama	Nu					
+1990	113	2000	Total Recall	Action	Nu					
+1963	113	5500	Heavens Above	Comedy	Nu					
+1961	113	5500	Ferry to Hong Kong	Drama	Nu					
+1944	114	3500	Gaslight	Drama	Da					
+1978	114	3500	Coma	Science Fiction	Nu					
+1989	114	1500	School Daze	Comedy	Nu					
+1983	114	4500	Le Choix des Armes	Mystery	Nu					
+1971	114	2500	Klute	Drama	Da					
+1986	114	3000	Hoosiers	Drama	Nu					
+1989	114	4500	Once Around	Comedy	Nu					
+1978	114	1000	Go Tell the Spartans	War	Nu					
+1987	114	5500	Into the Homeland	Action	Nu					
+1958	114	3000	Desire under the Elms	Drama	Nu					
+1969	114	1500	Hamlet	Drama	Nu					
+1989	114	2000	"Fabulous Baker Boys, The"	Drama	Nu					
+1967	114	4000	Hang 'em High	Western	Nu					
+1991	114	2000	After Dark My Sweet	Mystery	Nu					
+1974	114	1000	"Conversation, The"	Drama	Da					
+1991	114	1500	Thunderbolt & Lightfoot	Action	Nu					
+1985	114	5500	To Live & Die in L. A.	Action	Nu					
+1991	115	3000	Bataan	War	Nu					
+1991	115	3000	Flight of the Intruder	Drama	Nu					
+1955	115	5000	Blood Alley	War	Nu					
+1982	115	5500	E. T. The Extra-Terrestrial	Science Fiction	Da					
+1949	115	1500	"Heiress, The"	Drama	Da					
+1979	115	4000	Hurricane	Action	Nu					
+1988	115	4500	Working Girl	Comedy	Nu					
+1991	115	3000	Deceived	Mystery	Nu					
+1991	115	5500	Little Women	Drama	Nu					
+1990	115	6000	Men Don't Leave	Drama	Nu					
+1982	115	5500	Grease II	Music	Nu					
+1985	115	3000	Into the Night	Comedy	Nu					
+1981	115	6000	Endless Love	Drama	Nu					
+1987	115	3500	Stakeout	Comedy	Nu					
+1992	115	4000	Alien Three	Science Fiction	Nu					
+1971	115	2500	Sometimes a Great Notion	Drama	Nu					
+1981	116	2500	Raiders of the Lost Ark	Action	Nu					
+1991	116	1000	"Marrying Man, The"	Comedy	Nu					
+1973	116	4500	Day for Night	Drama	Da					
+1976	116	2500	Burnt Offerings	Horror	Nu					
+1976	116	4500	Network	Comedy	Da					
+1981	116	2500	Absence of Malice	Drama	Nu					
+1982	116	3000	Tootsie	Comedy	Da					
+1991	116	3500	Boom Town	Drama	Nu					
+1953	116	6000	Mogambo	Action	Nu					
+1988	116	1500	Running on Empty	Drama	Nu					
+1989	116	5500	In Country	Drama	Nu					
+1980	116	1500	Bronco Billy	Westerns	Nu					
+1992	116	2500	Operation Crossbow	Action	Nu					
+1955	116	5000	Mister Roberts	Comedy	Da					
+1988	116	5000	Tequila Sunrise	Mystery	Nu					
+1988	116	5000	Coming to America	Comedy	Nu					
+1985	116	4000	Pale Rider	Western	Nu					
+1985	116	1500	Back to the Future	Comedy	Nu					
+1986	116	3500	Legal Eagles	Comedy	Nu					
+1987	116	2500	Orphans	Drama	Nu					
+1972	116	6000	Jeremiah Johnson	Drama	Nu					
+1989	116	2500	Back to the Future II	Comedy	Nu					
+1982	117	3000	Tragedy of a Ridiculous Man	Drama	Nu					
+1992	117	5500	Patriot Games	Action	Nu					
+1986	117	3000	Nine & a Half Weeks	Drama	Nu					
+1949	117	3000	Under Capricorn	Drama	Nu					
+1977	117	1000	"Exorcist II, The Heretic"	Horror	Nu					
+1988	117	2000	Dead Ringers	Drama	Nu					
+1975	117	4500	Three Days of the Condor	Drama	Nu					
+1974	117	1500	Stavisky	Drama	Nu					
+1981	117	2000	Time Bandits	Comedy	Nu					
+1978	117	2500	Bloodbrothers	Drama	Nu					
+1982	117	3500	Blade Runner	Action	Nu					
+1991	117	2500	"Courtship of Eddie's Father, The"	Comedy	Nu					
+1980	117	3500	"Formula, The"	Mystery	Nu					
+1990	117	5000	Internal Affairs	Drama	Nu					
+1974	117	6000	Going Places	Drama	Nu					
+1991	117	1000	La Femme Nikita	Drama	Nu					
+1985	117	3000	Cocoon	Science Fiction	Da					
+1941	117	3000	So Ends Our Night	Drama	Nu					
+1991	117	1000	"Last Time I Saw Paris, The"	Drama	Nu					
+1955	117	4500	"Sea Chase, The"	War	Nu					
+1979	117	1000	Alien	Science Fiction	Nu					
+1989	117	1000	Harry & Son	Drama	Nu					
+1981	117	4500	Victory	Drama	Nu					
+1991	117	3500	Full Metal Jacket	War	Nu					
+1970	117	2500	Catch Twenty-Two	Comedy	Nu					
+1983	118	3500	"Man Who Loved Women, The"	Comedy	Nu					
+1988	118	4000	"Big Blue, The"	Drama	Nu					
+1989	118	6000	"Vincent, Francois, Paul & the Others"	Drama	Nu					
+1987	118	5500	Shy People	Drama	Nu					
+1987	118	5000	Castaway	Drama	Nu					
+1947	118	3500	Life with Father	Comedy	Nu					
+1989	118	4000	Steel Magnolias	Drama	Nu					
+1991	118	3000	"Silence of the Lambs, The"	Mystery	Da					
+1985	118	5000	"A Chorus Line, The Movie"	Music	Nu					
+1963	118	5500	"Yesterday, Today & Tomorrow"	Comedy	Da					
+1991	118	3500	Test Pilot	Drama	Nu					
+1991	118	3500	"Madonna, Truth or Dare"	Music	Nu					
+1987	118	3500	Hope & Glory	War	Nu					
+1975	118	3000	"Passenger, The"	Drama	Nu					
+1971	118	1500	"Last Picture Show, The"	Drama	Da					
+1981	118	1500	Taps	Drama	Nu					
+1989	118	3500	Harlem Nights	Comedy	Nu					
+1992	118	1500	Tightrope	Mystery	Nu					
+1985	119	3500	Kiss of the Spider Woman	Drama	Da					
+1987	119	2000	"Fourth Protocol, The"	Mystery	Nu					
+1987	119	5000	"Witches of Eastwick, The"	Comedy	Nu					
+1988	119	1000	Dangerous Liaisons	Drama	Nu					
+1991	119	5500	Meeting Venus	Comedy	Nu					
+1989	119	4000	See You in the Morning	Drama	Nu					
+1981	119	1500	"Whose Life Is It, Anyway?"	Drama	Nu					
+1986	119	2500	"Color of Money, The"	Drama	Da					
+1986	119	5500	Children of a Lesser God	Drama	Da					
+1962	119	1000	Rome Adventure	Drama	Nu					
+1991	119	5500	New York Stories	Comedy	Nu					
+1990	119	1500	Pretty Woman	Comedy	Nu					
+1973	119	3000	"Last of Sheila, The"	Mystery	Nu					
+1956	119	3500	"Searchers, The"	Western	Nu					
+1979	119	1500	"Frisco Kid, The"	Comedy	Nu					
+1987	119	4500	"Untouchables, The"	Drama	Da					
+1949	119	5000	"Battleground, The"	War	Nu					
+1986	119	1000	"Mosquito Coast, The"	Drama	Nu					
+1987	120	5000	Fatal Attraction	Mystery	Nu					
+1982	120	4500	Creepshow	Horror	Nu					
+1975	120	1500	"Wind & the Lion, The"	Action	Nu					
+1961	120	1000	Goodbye Again	Drama	Nu					
+1988	120	6000	Frantic	Mystery	Nu					
+1963	120	3000	"Ugly American, The"	Drama	Nu					
+1986	120	4500	Betty Blue	Drama	Nu					
+1956	120	3000	"Man Who Knew Too Much, The"	Mystery	Nu					
+1940	120	5500	Foreign Correspondent	Mystery	Nu					
+1986	120	1000	"Boy Who Could Fly, The"	Drama	Nu					
+1989	120	5000	Do the Right Thing	Drama	Nu					
+1986	120	4500	Jean de Florette	Drama	Da					
+1957	120	6000	Gunfight at the OK Corral	Western	Nu					
+1953	120	4500	Julius Caesar	Drama	Nu					
+1979	120	5000	Nineteen Forty-One	Comedy	Nu					
+1989	120	1000	Triumph of the Spirit	Drama	Nu					
+1986	120	3000	Comic Relief	Comedy	Nu					
+1986	120	5000	Manhunter	Drama	Nu					
+1966	120	2000	A Man for All Seasons	Drama	Da					
+1982	120	3500	"State of Things, The"	Drama	Nu					
+1991	120	4500	Awakenings	Drama	Nu					
+1990	120	1500	Hot Spot	Drama	Nu					
+1988	120	1500	Mississippi Burning	Drama	Da					
+1964	120	2500	Tom Jones	Drama	Da					
+1986	120	3000	Blue Velvet	Mystery	Nu					
+1987	120	2000	Innerspace	Science Fiction	Nu					
+1988	120	4000	"Lonely Passion of Judith Hearne, The"	Drama	Nu					
+1977	120	1500	"Prince & the Pauper, The"	Action	Nu					
+1933	120	2000	"Testament of Dr. Mabuse, The"	Drama	Nu					
+1987	120	2000	"Good Morning, Vietnam"	Comedy	Nu					
+1986	120	5000	Platoon	Drama	Da					
+1953	120	4000	Tales of Tomorrow	Horror	Nu					
+1979	121	6000	Ten	Comedy	Nu					
+1990	121	5000	"Rookie, THe"	Action	Nu					
+1977	121	3500	Star Wars	Science Fiction	Nu					
+1956	121	3500	"Rainmaker, The"	Drama	Nu					
+1989	121	2500	"Enemies, a Love Story"	Drama	Nu					
+1992	121	4000	"Postman Always Rings Twice, The"	Mystery	Nu					
+1985	121	4500	Ladyhawke	Adventure	Nu					
+1992	121	5500	Drowning by Numbers	Mystery	Nu					
+1968	121	3000	Hellfighters	Action	Nu					
+1988	121	5500	"Accidental Tourist, The"	Comedy	Da					
+1992	121	5000	Christopher Columbus: The Discovery	Adventure	Nu					
+1971	121	1500	"Red Tent, The"	Action	Nu					
+1974	121	1500	"Apprenticeship of Duddy Kravitz, The"	Drama	Da					
+1992	121	5500	Harper	Mystery	Nu					
+1991	121	3000	"Pink Panther, The"	Comedy	Nu					
+1979	122	6000	Cuba	Action	Nu					
+1973	122	3000	"Exorcist, The"	Horror	Da					
+1965	122	5000	Darling	Drama	Da					
+1979	122	4500	Hair	Music	Nu					
+1979	122	4000	"China Syndrome, The"	Drama	Nu					
+1986	122	4500	Salvador	Drama	Nu					
+1951	122	4500	A Streetcar Named Desire	Drama	Da					
+1989	122	2000	Pink Cadillac	Comedy	Nu					
+1989	122	4500	Quo Vadis	Drama	Nu					
+1982	122	5500	Missing	Drama	Nu					
+1988	122	3000	A Cry in the Dark	Drama	Nu					
+1960	122	6000	North to Alaska	Western	Nu					
+1973	122	4000	Magnum Force	Action	Nu					
+1990	123	3000	Misery	Horror	Da					
+1942	123	3000	Reap the Wild Wind	Drama	Nu					
+1982	123	4000	Honkytonk Man	Drama	Nu					
+1965	123	5000	Morituri	Drama	Nu					
+1977	123	3000	Slap Shot	Comedy	Nu					
+1970	123	6000	"Molly Maguires, The"	Action	Nu					
+1960	123	3500	"Unforgiven, The"	Drama	Nu					
+1962	123	6000	"Man Who Shot Liberty Valance, The"	Western	Nu					
+1962	123	1500	Experiment in Terror	Mystery	Nu					
+1983	123	1000	Bad Boys	Drama	Nu					
+1992	123	4500	Basic Instinct	Mystery	Nu					
+1954	123	6000	Dial M for Murder	Mystery	Nu					
+1966	123	3000	Closely Watched Trains	Drama	Da					
+1980	123	2500	Mon Oncle D'Amerique	Comedy	Nu					
+1969	123	1000	Midnight Cowboy	Drama	Da					
+1924	123	4500	Gosta Berling's Saga	Drama	Nu					
+1980	124	3500	"Elephant Man, The"	Drama	Da					
+1972	124	1500	"Life & Times of Judge Roy Bean, The"	Western	Nu					
+1974	124	4500	"Dersu Uzala, (The Hunter)"	Adventure	Da					
+1980	124	6000	"Empire Strikes Back, The"	Science Fiction	Nu					
+1975	124	4000	Jaws	Action	Nu					
+1977	124	5500	Bobby Deerfield	Drama	Nu					
+1974	124	3500	Amarcord	Drama	Da					
+1956	124	4500	Teahouse of the August Moon	Drama	Nu					
+1991	124	2000	"Russia House, The"	Drama	Nu					
+1985	124	5000	Plenty	Drama	Nu					
+1981	124	3000	Chariots of Fire	Drama	Da					
+1966	125	5000	Torn Curtain	Mystery	Nu					
+1992	125	2500	Final Analysis	Drama	Nu					
+1989	125	1000	Black Rain	Action	Nu					
+1990	125	4000	Wild at Heart	Drama	Nu					
+1925	125	3500	Joyless Street	Drama	Nu					
+1969	125	2000	Those Daring Young Men in Their Jaunty	Comedy	Nu					
+1986	125	5500	"Mission, The"	Drama	Nu					
+1931	125	3000	Cimarron	Western	Da					
+1982	125	3500	An Officer & a Gentleman	Drama	Da					
+1991	125	1500	"Last Hurrah, The"	Drama	Nu					
+1926	126	1500	Don Juan	Action	Nu					
+1989	126	3500	Batman	Action	Nu					
+1970	126	4500	Getting Straight	Comedy	Nu					
+1945	126	1000	"Bells of St. Mary's, The"	Drama	Nu					
+1990	126	2000	"Bonfire of the Vanities, The"	Drama	Nu					
+1987	126	2500	Wall Street	Drama	Da					
+1978	126	3000	International Velvet	Drama	Nu					
+1966	126	2000	"Fortune Cookie, The"	Comedy	Da					
+1969	126	2000	Topaz	Mystery	Nu					
+1990	126	2000	Indiana Jones & the Last Crusade	Action	Nu					
+1988	127	5500	Colors	Drama	Nu					
+1990	127	3500	Presumed Innocent	Mystery	Nu					
+1989	127	2000	Fat Man & Little Boy	Drama	Nu					
+1974	127	1000	"Man with the Golden Gun, The"	Action	Nu					
+1940	127	5500	Northwest Passage	Action	Nu					
+1977	127	2500	"American Friend, The"	Mystery	Nu					
+1988	127	5500	Everybody's All American	Romance	Nu					
+1973	127	3500	"Man Who Loved Cat Dancing, The"	Western	Nu					
+1990	127	1000	Ghost	Science Fiction	Da					
+1969	127	1500	Z	Drama	Da					
+1966	127	1000	"Russians Are Coming, the Russians Are, The"	Comedy	Da					
+1973	127	3500	Last Tango in Paris	Drama	Nu					
+1981	127	3000	"French Lieutenant's Woman, The"	Drama	Nu					
+1948	127	3000	Fort Apache	Western	Nu					
+1967	127	4000	Cool Hand Luke	Drama	Da					
+1981	127	2000	"Taming of the Shrew, The"	Drama	Nu					
+1974	128	2000	Murder on the Orient Express	Mystery	Da					
+1982	128	3000	Conan the Barbarian	Action	Nu					
+1979	128	5500	Moonraker	Action	Nu					
+1969	128	3000	True Grit	Western	Da					
+1992	128	6000	Cape Fear	Mystery	Nu					
+1985	128	4000	Christopher Columbus	Drama	Nu					
+1972	128	3000	Cabaret	Drama	Da					
+1958	128	1000	Vertigo	Drama	Nu					
+1976	128	4000	Shout at the Devil	Action	Nu					
+1992	128	5500	Night on Earth	Drama	Nu					
+1982	128	4500	"Ballad of Narayama, The"	Drama	Nu					
+1965	128	5500	"Shop on Main Street, The"	Drama	Da					
+1986	128	1500	"Name of the Rose, The"	Drama	Nu					
+1972	128	3500	"Cowboys, The"	Western	Nu					
+1990	128	1500	Dead Poets Society	Drama	Da					
+1991	128	4500	Inherit the Wind	Drama	Nu					
+1981	129	6000	For Your Eyes Only	Action	Nu					
+1973	129	2500	"Sting, The"	Drama	Da					
+1972	129	1000	Roma	Drama	Nu					
+1980	129	5500	"Competition, The"	Drama	Nu					
+1970	129	1500	Women in Love.	Drama	Nu					
+1956	129	3000	"Bad Seed, The"	Horror	Nu					
+1979	129	4500	Being There	Comedy	Da					
+1929	129	3500	"Manxman, The"	Drama	Nu					
+1970	129	4000	On a Clear Day You Can See Forever	Music	Nu					
+1975	129	5000	"Man Who Would Be King, The"	Drama	Nu					
+1990	129	5500	Mo' Better Blues	Drama	Nu					
+1967	130	5500	Casino Royale	Comedy	Nu					
+1987	130	2000	Wings of Desire	Drama	Nu					
+1940	130	5000	Rebecca	Drama	Da					
+1964	130	4500	Marnie	Drama	Nu					
+1970	130	3500	Fellini Satyricon	Drama	Nu					
+1991	130	5000	Man of La Mancha	Music	Nu					
+1986	130	2500	El Guerrero Solitario	Drama	Nu					
+1986	130	4000	Heartbreak Ridge	War	Nu					
+1987	130	4000	Matewan	Drama	Nu					
+1975	130	1500	"Eiger Sanction, The"	Action	Nu					
+1992	130	1500	Who's Afraid of Virginia Woolf?	Drama	Da					
+1985	130	3500	Prizzi's Honor	Comedy	Da					
+1984	130	2500	"Bounty, The"	Drama	Nu					
+1928	130	5000	Spies	Drama	Nu					
+1991	130	2000	For a Few Dollars More	Westerns	Nu					
+1974	131	3500	Chinatown	Drama	Da					
+1990	131	3500	A View to a Kill	Action	Nu					
+1983	131	1500	Silkwood	Drama	Nu					
+1985	131	1500	"Falcon & the Snowman, The"	Drama	Nu					
+1983	132	4500	Return of the Jedi	Science Fiction	Nu					
+1964	132	5500	Circus World	Drama	Nu					
+1991	132	1000	"Sea of Grass, The"	Western	Nu					
+1981	132	1500	Mephisto	Drama	Da					
+1978	132	4500	"Wild Geese, The"	Action	Nu					
+1986	132	5500	Alrededor de Medianoche	Drama	Nu					
+1983	132	4000	Terms of Endearment	Drama	Da					
+1976	132	3500	Midway	War	Nu					
+1965	133	3500	"Hush, Hush, Sweet Charlotte"	Mystery	Nu					
+1992	133	2000	Shining Through	Mystery	Nu					
+1968	133	5000	"Green Berets, The"	War	Nu					
+1992	133	1500	"Train, The"	Action	Nu					
+1962	134	2000	A Very Private Affair	Drama	Nu					
+1983	134	5000	Never Say Never Again	Action	Nu					
+1977	134	1500	Voyage of the Damned	Drama	Nu					
+1961	134	3000	"Hustler, The"	Drama	Da					
+1988	134	4500	Rain Man	Drama	Da					
+1968	134	3500	"Lion in Winter, THe"	Drama	Da					
+1983	134	3500	Yentl	Music	Nu					
+1987	134	6000	"Glass Menagerie, The"	Drama	Nu					
+1952	134	3500	Ikiru	Drama	Nu					
+1992	134	2000	Red River	Western	Nu					
+1990	135	4000	Cyrano de Bergerac	Drama	Nu					
+1992	135	6000	City of Joy	Drama	Nu					
+1981	135	3000	Choice of Arms	Action	Nu					
+1980	135	3000	"Last Metro, The"	Drama	Nu					
+1985	135	2000	Death of a Salesman	Drama	Nu					
+1969	135	1000	On Her Majesty's Secret Service	Action	Nu					
+1991	135	4500	"Doors, The"	Drama	Nu					
+1991	135	1000	North by Northwest	Mystery	Nu					
+1987	135	3000	Ironweed	Drama	Nu					
+1960	135	4000	"Fugitive Kind, The"	Drama	Nu					
+1945	135	2500	They Were Expendable	War	Nu					
+1990	135	3000	"Hunt for Red October, The"	Drama	Nu					
+1977	136	3000	"Spy Who Loved Me, The"	Action	Nu					
+1991	136	3000	Terminator 2	Action	Nu					
+1982	136	5500	"World According to Garp, The"	Drama	Nu					
+1977	136	5000	Looking for Mr. Goodbar	Drama	Nu					
+1982	136	4000	Firefox	Action	Nu					
+1982	136	4000	Danton	Drama	Nu					
+1992	136	4000	"Prize, The"	Drama	Nu					
+1970	137	1500	Airport	Drama	Da					
+1971	137	5000	"Boy Friend, THe"	Music	Nu					
+1977	137	3000	"New York, New York"	Drama	Nu					
+1992	137	5000	"Long Gray Line, The"	Drama	Nu					
+1986	137	3500	Aliens	Science Fiction	Nu					
+1920	137	4500	Spiders	Drama	Nu					
+1950	138	5500	All about Eve	Drama	Da					
+1992	138	1500	"Fisher King, The"	Drama	Da					
+1988	138	3500	Pelle the Conqueror	Drama	Da					
+1971	138	4000	A Clockwork Orange	Science Fiction	Da					
+1928	139	1500	Wings	War	Da					
+1987	139	2500	Maurice	Drama	Nu					
+1968	139	5000	2001: A Space Odyssey	Science Fiction	Nu					
+1992	139	5500	"Sheltering Sky, The"	Drama	Nu					
+1926	139	3500	Metropolis	Science Fiction	Nu					
+1944	139	3000	Thirty Seconds over Tokyo	War	Nu					
+1976	139	4000	All the President's Men	Drama	Da					
+1984	140	2000	Tartuffe	Comedy	Nu					
+1961	140	3000	La Dolce Vita	Drama	Nu					
+1970	140	4000	Dodesukaden	Drama	Nu					
+1986	140	4000	"Assault, The"	Drama	Da					
+1988	141	5000	Thunderball	Action	Nu					
+1986	141	1500	Courage	Drama	Nu					
+1961	141	6000	One Eyed Jacks	Western	Nu					
+1984	141	3500	"Killing Fields, The"	Drama	Da					
+1991	142	1000	Hook	Action	Nu					
+1977	143	1000	Black Sunday	Drama	Nu					
+1974	144	4000	"Day of the Locust, The"	Drama	Nu					
+1980	144	4000	"Shining, The"	Horror	Nu					
+1991	144	4000	Robin Hood: Prince of Thieves	Action	Nu					
+1991	144	4000	State of Grace	Drama	Nu					
+1969	144	1000	"Wild Bunch, The"	Western	Nu					
+1991	145	1500	Dragon Seed	Drama	Nu					
+1989	145	2500	Born on the Fourth of July	Drama	Da					
+1978	145	1500	"Superman, The Movie"	Action	Nu					
+1991	145	2000	"Sophia Loren, Her Own Story"	Drama	Nu					
+1977	146	5000	Twilight's Last Gleaming	Drama	Nu					
+1970	146	1000	Kelly's Heroes	War	Nu					
+1957	147	2500	Sayonara	Drama	Da					
+1928	148	2500	Tempest	Drama	Nu					
+1990	149	5500	Camille Claudel	Drama	Nu					
+1976	150	6000	"Lindbergh Kidnapping Case, The"	Drama	Nu					
+1984	150	6000	"Paris, Texas"	Drama	Nu					
+1962	150	5500	Lolita	Drama	Nu					
+1955	150	3000	Guys & Dolls	Comedy	Da					
+1989	150	3500	Sara Dane	Drama	Nu					
+1982	150	1500	A Question of Honor	Drama	Nu					
+1982	151	1000	Sophie's Choice	Drama	Da					
+1968	151	6000	Funny Girl	Music	Da					
+1960	152	3500	"Bad Sleep Well, The"	Drama	Nu					
+1957	153	4000	Desk Set	Comedy	Nu					
+1992	153	4500	"Quiet Man, The"	Drama	Nu					
+1987	153	3500	Empire of the Sun	Drama	Nu					
+1961	153	2500	West Side Story	Music	Da					
+1979	153	3000	Apocalypse Now	Drama	Nu					
+1961	154	3500	"Four Horsemen of the Apocalypse, The"	Drama	Nu					
+1987	155	2000	Indigo Autumn & Lilac Dream	Drama	Nu					
+1984	158	6000	Amadeus	Drama	Da					
+1991	158	2500	Until the End of the World	Drama	Nu					
+1968	159	1000	Where Eagles Dare	War	Nu					
+1991	160	1000	"Great Race, The"	Comedy	Nu					
+1985	161	5000	Out of Africa	Drama	Da					
+1988	161	6000	Bird	Drama	Nu					
+1980	161	4500	Kagemusha	Drama	Da					
+1969	161	3000	Paint Your Wagon	Music	Nu					
+1988	163	4000	"Last Temptation of Christ, The"	Drama	Nu					
+1992	163	2000	"Good, the Bad & the Ugly, The"	Westerns	Nu					
+1987	164	5500	"Last Emperor, The"	Drama	Da					
+1960	164	4000	"Alamo, The"	Action	Nu					
+1992	165	1000	How the West Was Won	Western	Nu					
+1965	165	4000	In Harm's Way	War	Nu					
+1951	166	3000	"Idiot, The"	Drama	Nu					
+1992	166	3500	"Hallelujah Trail, The"	Drama	Nu					
+1958	167	5500	"Young Lions, The"	Drama	Nu					
+1964	170	2500	My Fair Lady	Music	Da					
+1970	170	6000	Patton	War	Da					
+1965	172	5500	"Sound of Music, The"	Music	Da					
+1988	172	4000	"Unbearable Lightness of Being, The"	Drama	Da					
+1961	172	1000	El Cid	Drama	Nu					
+1957	173	5500	Raintree County	Drama	Nu					
+1966	175	1500	Is Paris Burning?	War	Nu					
+1972	175	4500	"Godfather, The"	Drama	Da					
+1976	176	5500	Kings of the Road (In the Course of Time)	Drama	Nu					
+1979	180	5500	"Last Ride of the Dalton Gang, The"	Western	Nu					
+1990	181	5000	Dances with Wolves	Western	Da					
+1962	182	6000	Mutiny on the Bounty	Action	Nu					
+1978	183	6000	"Deer Hunter, The"	Drama	Da					
+1962	183	4500	"Longest Day, The"	War	Nu					
+1960	185	4500	Spartacus	Drama	Da					
+1991	186	6000	At Play in the Fields of the Lord	Drama	Nu					
+1982	188	5000	Fanny and Alexander	Drama	Da					
+1982	188	5500	Gandhi	Drama	Da					
+1964	188	1000	"Fall of the Roman Empire, The"	Drama	Nu					
+1966	190	6000	Hawaii	Drama	Nu					
+1961	190	3000	Judgment at Nuremberg	Drama	Da					
+1991	193	5000	Separate but Equal	Drama	Nu					
+1970	194	5000	Ryan's Daughter	Drama	Da					
+1982	195	2000	A Woman Called Golda	Drama	Da					
+1981	195	3000	Reds	Drama	Da					
+1979	198	4500	"Sacketts, The"	Western	Nu					
+1965	199	4000	"Greatest Story Ever Told, The"	Drama	Nu					
+1955	200	2000	Seven Samurai	Drama	Nu					
+1974	201	5500	"Godfather, Pt 2., The"	Drama	Da					
+1956	201	6000	Giant	Drama	Da					
+1991	206	1000	JFK	Drama	Nu					
+1982	208	4000	Othello	Drama	Nu					
+1932	210	2500	"Hurricane Express, The"	Action	Nu					
+1992	213	6000	Exodus	Drama	Nu					
+1986	221	2000	On Wings of Eagles	Drama	Nu					
+1932	226	3500	"Shadow of the Eagle, The"	Action	Nu					
+1935	234	5500	"Adventures of Rex & Rinty, The"	Western	Nu					
+1991	240	3000	Four American Composers	Music	Nu					
+1963	243	4000	Cleopatra	Drama	Nu					
+1942	253	5500	Gangbusters	Drama	Nu					
+1977	255	3500	Nineteen Hundred	Drama	Nu					
+1943	265	3000	"Adventures of Smilin' Jack, The"	Mystery	Nu					
+1992	286	2000	Tommy	Music	Nu					
+1938	298	1000	Flaming Frontiers	Western	Nu					
+1974	313	1000	QB VII	Drama	Da					
+1988	360	4000	Little Dorrit	Drama	Nu					
+1968	360	2500	War & Peace	Drama	Da					
+1978	450	1000	Holocaust	Drama	Nu					

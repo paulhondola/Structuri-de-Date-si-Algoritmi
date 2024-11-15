@@ -1,0 +1,3 @@
+﻿  multime.c
+C:\Student\Lab2\sda_2_1_hondola_paul\lab2\multime\multime.c(16,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  multime.vcxproj -> C:\Student\Lab2\sda_2_1_hondola_paul\lab2\multime\x64\Debug\multime.exe

@@ -30,6 +30,8 @@ void integer_run_test(int size, int max_value) {
   }
   printf("\n");
 
+  quicksort(arr, size, sizeof(arr[0]), compare_int);
+
   printf("Sorted integer array: ");
   for (int i = 0; i < size; i++) {
     printf("%d ", arr[i]);
@@ -50,7 +52,7 @@ void float_run_test(int size, int max_value) {
   }
   printf("\n");
 
-  quicksort(arr, 0, size, sizeof(arr[0]), compare_float);
+  quicksort(arr, size, sizeof(arr[0]), compare_float);
 
   printf("Sorted float array: ");
   for (int i = 0; i < size; i++) {

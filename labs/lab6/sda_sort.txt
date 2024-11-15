@@ -1,0 +1,31 @@
+Se dă o matrice de numere reale. Matricea se stochează într-un spațiu continuu de memorie(fără pointeri la vectori și malloc la fiecare linie, eventual se poate malloc toata matricea o data). Se va citi matricea dintr-un fișier.
+
+Sa se sorteze liniile matricii descrescator dupa suma patratelor elementelor de pe linie. linia 0 sa aiba suma maxima. Sa se incerce 2 algoritmi si sa se masoare timpi de executie pentru diferite valori ale lui n(din 10 in 10). Sa se reprezinte grafic timpul in functie de n pentru cei 2 algoritmi.
+
+Unul din algoritmi ar trebui sa fie cel mai eficient algoritm pentru problema data. Celalalt ar fi un algoritm care are in mod obisnuit are o eficienta buna. Explicati rezultatele. Sa se analizeze complexitatile fiecarei functii(atentie: o mutare sau o comparatie poate nu se face in O(1)). Pentru a lua diferite valori de n, se va trimite ca parametru/folosi intreaga matrice, dar se vor prelucra doar un colt de nxn elemente.
+
+Se va calcula la inceput suma patratelor pentru fiecare linie.
+
+Functii:
+int compare_fast(float sums[MAXL], int x, int y)
+void swap(float m[MAXL][MAXL], x, y, n)
+doua functii de sortare
+void printsums(int n)
+void read()
+void print_matrix(float m[MAXL][MAXL], int n)
+
+structura orientativa main:
+
+for(n=20...500)
+	read(500)
+	starttime
+	sort1(n)
+	endtime
+
+	read(500)
+	starttime
+	sort2(n)
+	endtime
+	
+	print times for n
+
