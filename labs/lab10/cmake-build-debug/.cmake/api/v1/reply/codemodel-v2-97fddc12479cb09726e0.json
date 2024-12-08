@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lab10",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lab10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab10-Debug-620aeb3dc73a1525f867.json",
+					"name" : "lab10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "list::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-list-Debug-9cb67dcdc07e75962e6a.json",
+					"name" : "list",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "operations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-operations-Debug-99acecb7ed07175d7d1d.json",
+					"name" : "operations",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/paulhondola/Faculta/sda_2_1_hondola_paul/labs/lab10/cmake-build-debug",
+		"source" : "/Users/paulhondola/Faculta/sda_2_1_hondola_paul/labs/lab10"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

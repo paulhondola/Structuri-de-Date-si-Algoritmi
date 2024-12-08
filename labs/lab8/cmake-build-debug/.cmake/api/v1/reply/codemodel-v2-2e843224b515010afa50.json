@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lab8",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "hashmap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hashmap-Debug-42b222c24b72eb257e86.json",
+					"name" : "hashmap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab8-Debug-d71cbe2b9fe36a36ab54.json",
+					"name" : "lab8",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/paulhondola/Faculta/sda_2_1_hondola_paul/labs/lab8/cmake-build-debug",
+		"source" : "/Users/paulhondola/Faculta/sda_2_1_hondola_paul/labs/lab8"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

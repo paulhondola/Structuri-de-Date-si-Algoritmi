@@ -1,0 +1,4 @@
+/Users/paulhondola/Faculta/sda_2_1_hondola_paul/libraries/multilist/cmake-build-debug/CMakeFiles/multilist.dir
+/Users/paulhondola/Faculta/sda_2_1_hondola_paul/libraries/multilist/cmake-build-debug/CMakeFiles/main.dir
+/Users/paulhondola/Faculta/sda_2_1_hondola_paul/libraries/multilist/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/paulhondola/Faculta/sda_2_1_hondola_paul/libraries/multilist/cmake-build-debug/CMakeFiles/rebuild_cache.dir

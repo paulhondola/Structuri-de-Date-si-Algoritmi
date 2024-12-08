@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SearchBenchmark",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "array_generator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-array_generator-Debug-2e0fbd61fc90e8ffdc2c.json",
+					"name" : "array_generator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "datatype::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-datatype-Debug-3560449fc053be1bf4ce.json",
+					"name" : "datatype",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-16a7efa91b26a21d2808.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "search::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-search-Debug-f30b281ddaadeed576c9.json",
+					"name" : "search",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "timer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-timer-Debug-ff402968f88d15690043.json",
+					"name" : "timer",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/paulhondola/Faculta/sda_2_1_hondola_paul/teme/7/SearchBenchmark/cmake-build-debug",
+		"source" : "/Users/paulhondola/Faculta/sda_2_1_hondola_paul/teme/7/SearchBenchmark"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

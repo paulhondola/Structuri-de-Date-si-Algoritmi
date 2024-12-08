@@ -1,4 +1,4 @@
-#include "../libraries/timer.h"
+#include "timer.h"
 #include <time.h>
 
 clock_t aux;

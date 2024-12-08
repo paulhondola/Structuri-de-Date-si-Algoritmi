@@ -1,0 +1,5 @@
+/Users/paulhondola/Faculta/sda_2_1_hondola_paul/labs/lab10/cmake-build-debug/CMakeFiles/operations.dir
+/Users/paulhondola/Faculta/sda_2_1_hondola_paul/labs/lab10/cmake-build-debug/CMakeFiles/list.dir
+/Users/paulhondola/Faculta/sda_2_1_hondola_paul/labs/lab10/cmake-build-debug/CMakeFiles/lab10.dir
+/Users/paulhondola/Faculta/sda_2_1_hondola_paul/labs/lab10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/paulhondola/Faculta/sda_2_1_hondola_paul/labs/lab10/cmake-build-debug/CMakeFiles/rebuild_cache.dir

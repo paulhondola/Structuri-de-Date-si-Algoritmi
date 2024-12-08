@@ -1,0 +1,50 @@
+Se foloseste fisierul original cu filme. Se poate sterge manual prima linie. Pentru citire se poate pleca de la 
+while(fscanf(f, "%d %d %[^\t] %[^\t] %[^\t\n\r] ", ...) == 5){
+        
+}
+Filmul are an, durata, titlu, gen, premii si un pointer la urm. Fiecare film sa fie alocat dinamic separat si DOAR o singura data, nu o data pentru fiecare vector.
+Sa se citeasca TOATE filmele din fisier.
+Sa se retina si sa se formeze:
+	- un vector de pointeri la filme, astfel incat filmele sa fie sortate(se ignora pointerul la urm)
+	- un vector de 100 de pointeri care foloseste tehnica dispersiei (tablou de dispersie). Pentru a rezolva conflictele se va folosi campul urm.
+Sortarea este alfabetica.
+
+functia hash pentru un string va fi:
+	x=0
+	x = x + c; for each char c in string
+	return x mod 100
+//aveti +0.5p bonus daca nu folositi operatorul '*' pentru calculul inmultirii, dar nici nu folositi for
+
+Sa se creeze functii pentru afisarea filmelor din cei 2 vectori. Pentru hash table sa se afiseze astfel
+index 0:
+	film1
+	film2
+	...
+index 1:
+	filmx
+	filmy
+	...
+...
+
+Sa se creeze functii pentru cautarea unui film dupa titlu in FIECARE vector. Sa se trateze cazul in care filmul nu exista. Functia de cautare nu afiseaza nimic, doar returneaza. Daca se cauta filmul "Yellowbeard", trebuie sa putem din rezultatul cautarii extrage anul si durata (1983, 97).
+
+Sa se creeze functii care sa returneze urmatorul film dupa cel cu un string dat ca parametru. Daca filmul dat ca parametru nu exista, se va returna primul de dupa cuvantul dat in ordine alfabetica. De ex. dup filmul "Yellowbeard" este "Yentl". Daca se da ca parametru "Yellowbeard", se va returna filmul "Yentl". Daca se da ca parametru "Yem", se va returna tot "Yentl".
+
+Pentru toate functiile sa se analizeze complexitatile. Se considera numarul de filme n si lungimea medie a titlurilor k.
+Nu uitati sa dati free la final!
+
+Barem orientativ:
+	- definirea structurilor de date. 1p
+	- functie pentru adaugarea unui film in vectorul sortat si in vectorul dispersat. 1p+1p
+	- functii de cautare in FIECARE vector. 1p+1p
+	- cautare urmatorul film. 1p+1p
+	- la alegere pentru 2p:
+		- sa se caute/creeze un exemplu, cat de artificial, pentru care hash table este mai incet la cautare decat vectorul sortat. Sa se puna timpii intr-un fisier text si sa se explice de ce se intampla astfel.
+		- sa se implementeze cate o functie functii pentru stergerea unui film din fiecare vector
+		- sa se spuna daca functiile hash urmatoare sunt bune sau nu(pentru fiecare) si sa se explice de ce:
+			- cea data
+			- x=0; x=x*32+c; for each char c in string
+			- x=0; x=x+c*32; for each char c in string
+			- x=0; x=(x+c)*32; for each char c in string
+	
+ 
