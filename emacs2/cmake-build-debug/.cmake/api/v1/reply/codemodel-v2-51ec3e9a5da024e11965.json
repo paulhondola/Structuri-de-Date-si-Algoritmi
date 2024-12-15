@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "emacs2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "emacs2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-emacs2-Debug-c02843e5b4ec54cb4f54.json",
+					"name" : "emacs2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "emacs2.exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-emacs2.exe-Debug-bf2824f4d6723f4009e5.json",
+					"name" : "emacs2.exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "file_op::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-file_op-Debug-6353774f0aa0340928cd.json",
+					"name" : "file_op",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "io_op::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-io_op-Debug-0f0e7e936a3692ee2e89.json",
+					"name" : "io_op",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "list::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-list-Debug-cecd88a8974b53fa6858.json",
+					"name" : "list",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/paulhondola/Faculta/sda_2_1_hondola_paul/emacs2/cmake-build-debug",
+		"source" : "/Users/paulhondola/Faculta/sda_2_1_hondola_paul/emacs2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

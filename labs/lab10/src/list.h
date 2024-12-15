@@ -15,7 +15,7 @@ list INIT_LIST(void);
 
 // Destructors
 void DESTROY_LIST(list);
-void REMOVE_ALL(list);
+void REMOVE_ALL(list); // Deletes the files
 
 // deschide un fisier si il adauga la coada listei
 int OPEN(list, const char*);

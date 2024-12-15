@@ -1,14 +1,19 @@
 OPEN files/file1.txt
+OPEN files/file2.txt
 PRINT files/file1.txt
+WRITE files/file2.txt 0 HelloWorld
 WRITE files/file1.txt 5 12345
 PRINT files/file1.txt
 DELETE files/file1.txt 20 7
 PRINT files/file1.txt
+DELETE files/file2.txt 3 5
+WRITE files/file2.txt 10 10_space_offset
 WRITE files/file1.txt 100 *******
 PRINT files/file1.txt
 SAVEAS files/file1.txt files/ceva.txt
-PRINT files/file1.txt
-PRINT files/ceva.txt
+COPY files/file2.txt files/file2_copy.txt
+OPEN files/file2_copy.txt
+PRINT_ALL
 
 ------------------------
 File: files/file1.txt
@@ -28,9 +33,19 @@ File: files/file1.txt
 ------------------------
 File: files/file1.txt
      12345                                                                                          *******
+------------------------
+
+------------------------
+File: files/file2.txt
+HelldHelld10_space_offsetHelld10_space_offsetHelld10_space_offsetHelld10_space_offsetHelld10_space_offsetHello10_space_offsetWorld                              
 ------------------------
 
 ------------------------
 File: files/ceva.txt
      12345                                                                                          *******
+------------------------
+
+------------------------
+File: files/file2_copy.txt
+HelldHelld10_space_offsetHelld10_space_offsetHelld10_space_offsetHelld10_space_offsetHelld10_space_offsetHello10_space_offsetWorld                              
 ------------------------

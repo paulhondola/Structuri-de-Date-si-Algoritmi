@@ -1,0 +1,7 @@
+/Users/paulhondola/Faculta/sda_2_1_hondola_paul/emacs2/cmake-build-debug/CMakeFiles/list.dir
+/Users/paulhondola/Faculta/sda_2_1_hondola_paul/emacs2/cmake-build-debug/CMakeFiles/file_op.dir
+/Users/paulhondola/Faculta/sda_2_1_hondola_paul/emacs2/cmake-build-debug/CMakeFiles/io_op.dir
+/Users/paulhondola/Faculta/sda_2_1_hondola_paul/emacs2/cmake-build-debug/CMakeFiles/emacs2.dir
+/Users/paulhondola/Faculta/sda_2_1_hondola_paul/emacs2/cmake-build-debug/CMakeFiles/emacs2.exe.dir
+/Users/paulhondola/Faculta/sda_2_1_hondola_paul/emacs2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/paulhondola/Faculta/sda_2_1_hondola_paul/emacs2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

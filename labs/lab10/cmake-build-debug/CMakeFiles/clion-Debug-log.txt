@@ -5,6 +5,6 @@
 -- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc - skipped
 -- Detecting C compile features
 -- Detecting C compile features - done
--- Configuring done (0.3s)
+-- Configuring done (1.4s)
 -- Generating done (0.0s)
 -- Build files have been written to: /Users/paulhondola/Faculta/sda_2_1_hondola_paul/labs/lab10/cmake-build-debug
