@@ -15,6 +15,14 @@ corespunzatoare.
 
 #include <stdio.h>
 
+#define COD_ALB "\x1b[37m"
+#define COD_GALBEN "\x1b[33m"
+#define COD_ROSU "\x1b[31m"
+#define COD_VERDE "\x1b[32m"
+#define COD_ALBASTRU "\x1b[34m"
+#define COD_NEGRU "\x1b[30m"
+#define RST "\x1b[0m"
+
 #define FLAG_COUNT NEGRU
 #define MAX_FLAGS 3
 typedef enum { ALB = 1, GALBEN, ROSU, VERDE, ALBASTRU, NEGRU } culori;
@@ -37,27 +45,27 @@ void afiseaza(int st[], int k) {
   for (int i = 1; i <= k; i++) {
     switch (st[i]) {
     case ALB:
-      printf("ALB ");
+      printf(COD_ALB "ALB ");
       break;
 
     case GALBEN:
-      printf("GALBEN ");
+      printf(COD_GALBEN "GALBEN ");
       break;
 
     case ROSU:
-      printf("ROSU ");
+      printf(COD_ROSU "ROSU ");
       break;
 
     case VERDE:
-      printf("VERDE ");
+      printf(COD_VERDE "VERDE ");
       break;
 
     case ALBASTRU:
-      printf("ALBASTRU ");
+      printf(COD_ALBASTRU "ALBASTRU ");
       break;
 
     case NEGRU:
-      printf("NEGRU ");
+      printf(COD_NEGRU "NEGRU ");
       break;
     }
   }
