@@ -88,7 +88,7 @@ int select_tasks(task tasks[], int count, int allocated_time) {
   printf("Tasks in execution: %d", tasks[0].id);
 
   for (int i = 1; i < count; i++)
-    if (tasks[prev_task_index].end_time < tasks[i].start_time &&
+    if (tasks[prev_task_index].end_time <= tasks[i].start_time &&
         current_time + get_duration(&tasks[i]) <= allocated_time) {
       task_count++;
       current_time = tasks[i].end_time;
@@ -110,8 +110,8 @@ int main(void) {
 
   generate_tasks(tasks, TASK_COUNT);
   print_tasks(tasks, TASK_COUNT);
-  heap_sort(tasks, TASK_COUNT, cmp_start);
-  heap_sort(tasks, TASK_COUNT, cmp_duration);
+  heap_sort(tasks, TASK_COUNT, cmp_end);
+  // heap_sort(tasks, TASK_COUNT, cmp_duration);
   printf("\n");
   print_tasks(tasks, TASK_COUNT);
   int count = select_tasks(tasks, TASK_COUNT, ALLOCATED_TIME);

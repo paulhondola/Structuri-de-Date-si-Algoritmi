@@ -22,6 +22,7 @@ typedef struct {
 
 queue init_queue() { return (queue){NULL, NULL}; }
 
+// O(1) add to the rear
 void enqueue(queue *q, node n) {
   if (q->front == NULL) {
     q->front = n;
@@ -32,6 +33,7 @@ void enqueue(queue *q, node n) {
   }
 }
 
+// O(1) remove from the front
 node dequeue(queue *q) {
   if (q->front == NULL)
     return NULL;
@@ -41,15 +43,14 @@ node dequeue(queue *q) {
   return n;
 }
 
-int is_empty(queue q) { return q.front == NULL; }
-
+// print function for process
 void print_process(process p) {
   printf("ID: %d | ", p.id);
   printf("Priority: %d | ", p.priority);
   printf("Activation time: %d\n", p.activation_time);
 }
 
-// recursive function to print the list
+// recursive function to print the list O(n)
 void print_list(node head) {
   if (head == NULL)
     return;
@@ -58,6 +59,7 @@ void print_list(node head) {
   print_list(head->next);
 }
 
+// O(priorities * nodes)
 void print_multilist(node multilist[]) {
   for (int i = 1; i < MAX_PRIORITY; i++) {
     printf("Priority %d:\n", i);
@@ -83,7 +85,7 @@ process generate_process() {
   return p;
 }
 
-// insert a process in the list, lower activation time is higher priority
+// insert a process in the list, lower activation time is higher priority O(n)
 void priority_insert(node *head, process p) {
   node new_node = (node)malloc(sizeof(struct NODE));
   new_node->data = p;
@@ -102,10 +104,11 @@ void priority_insert(node *head, process p) {
     current = current->next;
   }
 
+  // insert at the beginning
   if (prev == NULL) {
     new_node->next = *head;
     *head = new_node;
-  } else {
+  } else { // insert in the middle or at the end
     prev->next = new_node;
     new_node->next = current;
   }
