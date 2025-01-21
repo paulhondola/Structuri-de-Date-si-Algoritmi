@@ -28,13 +28,13 @@ corespunzatoare.
 typedef enum { ALB = 1, GALBEN, ROSU, VERDE, ALBASTRU, NEGRU } culori;
 
 int valid(int st[], int k) {
+  if (k > 1 && (st[2] != VERDE && st[2] != GALBEN))
+    return 0;
+
   for (int i = 1; i < k; i++)
     for (int j = i + 1; j <= k; j++)
       if (st[i] == st[j])
         return 0;
-
-  if (k > 1 && (st[2] != VERDE && st[2] != GALBEN))
-    return 0;
 
   return 1;
 }

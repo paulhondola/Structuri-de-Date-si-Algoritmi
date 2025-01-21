@@ -30,8 +30,6 @@ void generate_words(char *word, int index, int a, int b, int c) {
   }
 }
 
-void generate_words_backtracking(char *word, int level, int a, int b, int c) {}
-
 #define MAX_LEVEL A_CNT + B_CNT + C_CNT
 #define A_CNT 3
 #define B_CNT 4

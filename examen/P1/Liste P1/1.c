@@ -55,10 +55,10 @@ palet create_palet(int cod) {
   return p;
 }
 
-palet add_palet(palet p, int cod) {
+void add_palet(palet *p, int cod) {
   palet q = create_palet(cod);
-  q->next = p;
-  return q;
+  q->next = *p;
+  *p = q;
 }
 
 depozit create_depozit(char nume[], palet p) {
@@ -69,11 +69,10 @@ depozit create_depozit(char nume[], palet p) {
   return d;
 }
 
-depozit add_depozit(depozit d, char nume[], palet p) {
+void add_depozit(depozit *d, char nume[], palet p) {
   depozit q = create_depozit(nume, p);
-  q->next = d;
-  d = q;
-  return q;
+  q->next = *d;
+  *d = q;
 }
 
 void generate_random_paleti(palet p[], int palet_horizontal,
@@ -83,23 +82,19 @@ void generate_random_paleti(palet p[], int palet_horizontal,
 
   for (int i = 0; i < palet_horizontal; i++)
     for (int j = 0; j < palet_vertical; j++)
-      p[i] = add_palet(p[i], rand() % 10);
+      add_palet(&p[i], rand() % 10);
 }
 
-palet erase_from_palet(palet p, int cod) {
+void erase_from_palet(palet *p, int cod) {
   // erase from head
-  while (p && p->cod == cod) {
-    palet temp = p;
-    p = p->next;
+  while (p && (*p)->cod == cod) {
+    palet temp = *p;
+    *p = (*p)->next;
     free(temp);
   }
 
-  // if list is empty
-  if (p == NULL)
-    return NULL;
-
   // erase from middle or tail
-  palet q = p;
+  palet q = *p;
   while (q && q->next) {
     if (q->next->cod == cod) {
       palet temp = q->next;
@@ -108,17 +103,14 @@ palet erase_from_palet(palet p, int cod) {
     } else
       q = q->next;
   }
-
-  return p;
 }
 
-depozit erase_from_depozit(depozit d, int cod) {
-  depozit q = d;
+void erase_from_depozit(depozit *d, int cod) {
+  depozit q = *d;
   while (q) {
-    q->paleti = erase_from_palet(q->paleti, cod);
+    erase_from_palet(&q->paleti, cod);
     q = q->next;
   }
-  return d;
 }
 
 int main(void) {
@@ -126,17 +118,18 @@ int main(void) {
   palet p[H];
   generate_random_paleti(p, H, V);
 
-  depozit d = create_depozit("d1", p[0]);
-  d = add_depozit(d, "d2", p[1]);
-  d = add_depozit(d, "d3", p[2]);
-  d = add_depozit(d, "d4", p[3]);
-  d = add_depozit(d, "d5", p[4]);
+  depozit d = NULL;
+  add_depozit(&d, "d1", p[0]);
+  add_depozit(&d, "d2", p[1]);
+  add_depozit(&d, "d3", p[2]);
+  add_depozit(&d, "d4", p[3]);
+  add_depozit(&d, "d5", p[4]);
 
   print_depozit(d);
 
   printf("------------------------------------------\nAfter removal:\n");
 
-  d = erase_from_depozit(d, 0);
+  erase_from_depozit(&d, 0);
   print_depozit(d);
 
   return 0;
