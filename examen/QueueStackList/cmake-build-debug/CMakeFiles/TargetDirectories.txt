@@ -1,0 +1,3 @@
+/Users/paulhondola/Faculta/sda_2_1_hondola_paul/QueueStackList/cmake-build-debug/CMakeFiles/QueueStackList.dir
+/Users/paulhondola/Faculta/sda_2_1_hondola_paul/QueueStackList/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/paulhondola/Faculta/sda_2_1_hondola_paul/QueueStackList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
